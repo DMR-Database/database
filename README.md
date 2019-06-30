@@ -21,7 +21,7 @@
 <br>
 </p>
 <hr>
-<h2 id="english">Brandmeister database for Tytera,Ailunce,Anytone and TYT
+<h2 id="english">Brandmeister user database for Tytera,Ailunce,Anytone and TYT
 </h2>
 <b>MD380 & MD390</b>
 <br>
@@ -58,7 +58,7 @@ The database is used together with Anytone AdresTool v1.00 modified by PD1LOI.
 <br>
 For MD380-MD390 : If you edit the database by yourself do not forget to fill in the number of characters on the first line. Preview at the bottom of Notepad tab. Example Length: 4,275,525 Enter this number on the first line without commas thus 4275525.
 <hr>
-<h2 id="dutch">Brandmeister database voor Tytera,Ailunce,Anytone and TYT
+<h2 id="dutch">Brandmeister user database voor Tytera,Ailunce,Anytone and TYT
 </h2>
 <b>MD380 & MD390</b>
 <br>
@@ -95,7 +95,7 @@ De database wordt samen gebruikt met de Anytone AdresTool v1.00 aangepast door P
 <br>
 Voor MD380-MD390 : Als je zelf de database aanpast vergeet niet het aantal karakers in te vullen op de eerste regel. Voorbeeld onderop de tab van notepad++ te zien. Voorbeeld Lengte: 4,275,525 vul dit getal in op de eerste regel zonder komma's dus zo 4275525.
 <hr>
-<h2 id="german">Brandmeister database für Tytera,Ailunce,Anytone and TYT
+<h2 id="german">Brandmeister user database für Tytera,Ailunce,Anytone and TYT
 </h2>
 <b>MD380 & MD390</b>
 <br>
