@@ -116,7 +116,7 @@ Die database wird zusammen mit dem Ailunce HD1 AdresTool v1.02 von PD1LOI modifi
 <br>
 Die database wird zusammen mit dem Anytone AdresTool v1.00 von PD1LOI modifiziert verwendet.
 <li>
-<a href="https://github.com/BM-Database/database-tools/blob/master/Anytone%20AdresTool%20v%201.00.rar">Anytone AdresTool v 1.00</a>
+<a href="https://github.com/BM-Database/database-tools/raw/master/Anytone%20AdresTool%20v%201.00.rar">Anytone AdresTool v 1.00</a>
 </li><li>
 <a href="https://raw.githubusercontent.com/BM-Database/database/master/userat.csv">Database für Anytone</a>
 </li>
