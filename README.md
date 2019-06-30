@@ -1,5 +1,5 @@
 # Brandmeister User Database for HTs & MTs
-<center>
+<p align="center">
 <a href="#english">English</a> - 
 <a href="#dutch">Dutch</a> - 
 <a href="#german">German</a> -
