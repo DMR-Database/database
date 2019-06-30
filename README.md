@@ -1,9 +1,4 @@
 # Brandmeister User Database for HTs & MTs
-<p align="center">
-<a href="https://www.communicationworld.nl" target="_blank"><img src="BM-comworld.jpg" width="360"></a>
-<br>
-<a href="https://www.wimo.com" target="_blank"><img src="BM-wimo.jpg" width="360"></a>
-<br>
 <center>
 <a href="#dutch">Dutch</a> - 
 <a href="#english">English</a> - 
@@ -17,6 +12,12 @@
 <a href="#helpus">Japanese</a> -
 <a href="#helpus">All others</a>
 </center>
+<p align="center">
+<a href="https://www.communicationworld.nl" target="_blank"><img src="BM-comworld.jpg" width="360"></a>
+<br>
+<a href="https://www.wimo.com" target="_blank"><img src="BM-wimo.jpg" width="360"></a>
+<br>
+</p>
 <hr>
 <h2 id="dutch">Brandmeister UserDB voor TYT,Ailunce,Anytone & andere HTs.
 </h2>
