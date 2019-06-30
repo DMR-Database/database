@@ -1,4 +1,5 @@
-# Brandmeister User Database for HTs & MTs
+# <center> Brandmeister User Database for HTs & MTs
+<br>
 <p align="center">
 <a href="#english">English</a> - 
 <a href="#dutch">Dutch</a> - 
@@ -11,10 +12,9 @@
 <a href="#helpus">Russian</a> -
 <a href="#helpus">Japanese</a> -
 <a href="#helpus">All others</a>
-</center>
 <br>
-<hr><br>
-<p align="center">
+<hr>
+<br>
 <a href="https://www.communicationworld.nl" target="_blank"><img src="BM-comworld.jpg" width="360"></a>
 <br>
 <a href="https://www.wimo.com" target="_blank"><img src="BM-wimo.jpg" width="360"></a>
