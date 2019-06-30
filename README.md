@@ -16,7 +16,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/BM-Database" target="_blank"><img src="img/BM-logo.jpg" width="360"></a>
-<br>
+<br><br>
 <a href="https://www.communicationworld.nl" target="_blank"><img src="img/logo-comworld.jpg" width="360"></a>
 <br>
 </p>
