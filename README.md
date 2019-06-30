@@ -15,7 +15,7 @@
 <hr>
 <br>
 <p align="center">
-<a href="https://www.communicationworld.nl" target="_blank"><img src="BM-comworld.jpg" width="360"></a>
+<a href="https://www.communicationworld.nl" target="_blank"><img src="img/BM-comworld.jpg" width="360"></a>
 <br>
 </p>
 <hr>
