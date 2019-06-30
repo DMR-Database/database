@@ -1,4 +1,4 @@
-# Brandmeister User Database for TYT,Ailunce,Anytone and other HTs & MTs
+# Brandmeister Database for TYT,Ailunce,Anytone and other HTs & MTs
 <br>
 <p align="center">
 <a href="#english">English</a> - 
