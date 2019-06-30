@@ -1,5 +1,4 @@
 # Brandmeister User Database for HTs & MTs
-<br>
 <center>
 <a href="#english">English</a> - 
 <a href="#dutch">Dutch</a> - 
@@ -14,6 +13,7 @@
 <a href="#helpus">All others</a>
 </center>
 <br>
+<hr><br>
 <p align="center">
 <a href="https://www.communicationworld.nl" target="_blank"><img src="BM-comworld.jpg" width="360"></a>
 <br>
