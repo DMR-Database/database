@@ -1,4 +1,3 @@
-# Brandmeister database for Tytera,Ailunce,Anytone and TYT
 <br>
 <p align="center">
 <a href="#english">English</a> - 
