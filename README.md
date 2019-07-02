@@ -53,7 +53,7 @@ The database is used together with Ailunce HD1 AdresTool v2.00 modified by PD1LO
 <br>
 The database is used together with Anytone AdresTool v2.00 modified by PD1LOI.
 <li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/Anytone%20AdresTool%20v%202.00.rar">Anytone AdresTool v 1.00</a>
+<a href="https://github.com/BM-Database/database-tools/raw/master/Anytone%20AdresTool%20v%202.00.rar">Anytone AdresTool v2.00</a>
 </li>
 <br>
 <br>
