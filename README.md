@@ -29,7 +29,7 @@ The database is used together with TyteraFlashTool v2.00 KD4Z made by KG5RKI and
 <li>
 <a href="https://github.com/BM-Database/database-tools/blob/master/TyteraFlashTool%20v2.00-KD4Z.rar?raw=true">TyteraFlashTool v2.00</a>
 </li><li>
-<a href="https://raw.githubusercontent.com/BM-Database/database/master/user.bin">Database for MD380 & MD390</a>
+<a href="https://github.com/BM-Database/database/raw/master/user.bin">Database for MD380 & MD390</a>
 </li>
 <br>
 <b>HD1</b>
