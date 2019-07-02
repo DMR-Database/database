@@ -1,4 +1,3 @@
-<br>
 <p align="center">
 <a href="#english">English</a> - 
 <a href="#dutch">Dutch</a> - 
@@ -23,13 +22,21 @@
 <hr>
 <h2 id="english">Brandmeister user database for Tytera,Ailunce,Anytone and TYT
 </h2>
+<li>
+<a href="https://github.com/BM-Database/database/raw/master/user.bin">Database for MD380 & MD390</a>
+</li>
+<li>
+<a href="https://raw.githubusercontent.com/BM-Database/database/master/userhd.csv">Database for HD1</a>
+</li>
+<li>
+<a href="https://raw.githubusercontent.com/BM-Database/database/master/userat.csv">Database for Anytone</a>
+</li>
+<br>
 <b>MD380 & MD390</b>
 <br>
 The database is used together with TyteraFlashTool v2.00 KD4Z made by KG5RKI and modified by PD1LOI. 
 <li>
 <a href="https://github.com/BM-Database/database-tools/blob/master/TyteraFlashTool%20v2.00-KD4Z.rar?raw=true">TyteraFlashTool v2.00</a>
-</li><li>
-<a href="https://github.com/BM-Database/database/raw/master/user.bin">Database for MD380 & MD390</a>
 </li>
 <br>
 <b>HD1</b>
@@ -37,8 +44,6 @@ The database is used together with TyteraFlashTool v2.00 KD4Z made by KG5RKI and
 The database is used together with Ailunce HD1 AdresTool v12.00 modified by PD1LOI.
 <li>
 <a href="https://github.com/BM-Database/database-tools/blob/master/Ailunce%20HD1-AdresTool-v%202.00.rar?raw=true">Ailunce HD1 AdresTool v2.00</a>
-</li><li>
-<a href="https://raw.githubusercontent.com/BM-Database/database/master/userhd.csv">Database for HD1</a>
 </li>
 <br>
 <b>Anytone</b>
@@ -46,8 +51,6 @@ The database is used together with Ailunce HD1 AdresTool v12.00 modified by PD1L
 The database is used together with Anytone AdresTool v1.00 modified by PD1LOI.
 <li>
 <a href="https://github.com/BM-Database/database-tools/raw/master/Anytone%20AdresTool%20v%201.00.rar">Anytone AdresTool v 1.00</a>
-</li><li>
-<a href="https://raw.githubusercontent.com/BM-Database/database/master/userat.csv">Database for Anytone</a>
 </li>
 <br>
 <b>MD-2017</b>
