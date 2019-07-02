@@ -20,13 +20,13 @@
 <br>
 </p>
 <hr>
-<h2 id="english">Brandmeister user database for Tytera,Ailunce,Anytone and TYT
+<h2 id="english">Brandmeister user database for Tytera, Ailunce, Anytone and TYT
 </h2>
 <li>
-<a href="https://github.com/BM-Database/database/raw/master/user.bin">Database for MD380 & MD390</a>
+<a href="https://github.com/BM-Database/database/raw/master/user.bin">Database for Tytera MD380 & MD390</a>
 </li>
 <li>
-<a href="https://raw.githubusercontent.com/BM-Database/database/master/userhd.csv">Database for HD1</a>
+<a href="https://raw.githubusercontent.com/BM-Database/database/master/userhd.csv">Database for Ailunce HD1</a>
 </li>
 <li>
 <a href="https://raw.githubusercontent.com/BM-Database/database/master/userat.csv">Database for Anytone</a>
@@ -44,7 +44,7 @@ The database is used together with TyteraFlashTool v2.00 KD4Z made by KG5RKI and
 <br>
 <b>Ailunce HD1</b>
 <br>
-The database is used together with Ailunce HD1 AdresTool v12.00 modified by PD1LOI.
+The database is used together with Ailunce HD1 AdresTool v2.00 modified by PD1LOI.
 <li>
 <a href="https://github.com/BM-Database/database-tools/blob/master/Ailunce%20HD1-AdresTool-v%202.00.rar?raw=true">Ailunce HD1 AdresTool v2.00</a>
 </li>
