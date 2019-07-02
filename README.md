@@ -99,25 +99,25 @@ Voor MD380-MD390 : Als je zelf de database aanpast vergeet niet het aantal karak
 </h2>
 <b>MD380 & MD390</b>
 <br>
-Die database wird zusammen mit dem TyteraFlashTool v1.04a KD4Z von KG5RKI und von PD1LOI modifiziert verwendet.
+Die database wird zusammen mit dem TyteraFlashTool v2.00 KD4Z von KG5RKI und von PD1LOI modifiziert verwendet.
 <li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/TyteraFlashToolv1.04a-KD4Z.zip">TyteraFlashTool v1.04a</a>
+<a href="https://github.com/BM-Database/database-tools/blob/master/TyteraFlashTool%20v2.00-KD4Z.rar?raw=true">TyteraFlashTool v2.00</a>
 </li><li>
 <a href="https://raw.githubusercontent.com/BM-Database/database/master/user.bin">Database für MD380 & MD390</a>
 </li>
 <br>
 <b>HD1</b>
 <br>
-Die database wird zusammen mit dem Ailunce HD1 AdresTool v1.02 von PD1LOI modifiziert verwendet.
+Die database wird zusammen mit dem Ailunce HD1 AdresTool v2.00 von PD1LOI modifiziert verwendet.
 <li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/Ailunce%20HD1-AdresTool-v%201.02.rar">Ailunce HD1 AdresTool v1.02</a>
+<a href="https://github.com/BM-Database/database-tools/blob/master/Ailunce%20HD1-AdresTool-v%202.00.rar?raw=true">Ailunce HD1 AdresTool v2.00</a>
 </li><li>
 <a href="https://raw.githubusercontent.com/BM-Database/database/master/userhd.csv">Database für HD1</a>
 </li>
 <br>
 <b>Anytone</b>
 <br>
-Die database wird zusammen mit dem Anytone AdresTool v1.00 von PD1LOI modifiziert verwendet.
+Die database wird zusammen mit dem Anytone AdresTool v2.00 von PD1LOI modifiziert verwendet.
 <li>
 <a href="https://github.com/BM-Database/database-tools/blob/master/Anytone%20AdresTool%20v%202.00.rar?raw=true">Anytone AdresTool v 2.00</a>
 </li><li>
