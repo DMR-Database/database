@@ -31,15 +31,15 @@
 <li>
 <a href="https://raw.githubusercontent.com/BM-Database/database/master/userat.csv">Database for Anytone</a>
 </li>
+<li>
+<a href="https://raw.githubusercontent.com/BM-Database/database/master/usermd2017.csv">Database for TYT MD-2017</a>
+</li>
 <br>
 <b>MD380 & MD390</b>
 <br>
 The database is used together with TyteraFlashTool v2.00 KD4Z made by KG5RKI and modified by PD1LOI. 
 <li>
 <a href="https://github.com/BM-Database/database-tools/blob/master/TyteraFlashTool%20v2.00-KD4Z.rar?raw=true">TyteraFlashTool v2.00</a>
-</li>
-<li>
-<a href="https://raw.githubusercontent.com/BM-Database/database/master/usermd2017.csv">Database for TYT MD-2017</a>
 </li>
 <br>
 <b>HD1</b>
