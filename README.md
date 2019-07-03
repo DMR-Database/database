@@ -72,9 +72,9 @@ De database wordt samen gebruikt met de TyteraFlashTool v2.00 KD4Z van KG5RKI en
 <br>
 <b>HD1</b>
 <br>
-De database wordt samen gebruikt met de Ailunce HD1 AdresTool v1.02 aangepast door PD1LOI.
+De database wordt samen gebruikt met de Ailunce HD1 AdresTool v2.00 aangepast door PD1LOI.
 <li>
-<a href="https://github.com/BM-Database/database-tools/raw/master/Ailunce%20HD1-AdresTool-v%201.02.rar">Ailunce HD1 AdresTool v1.02</a>
+<a href="https://github.com/BM-Database/database-tools/blob/master/Ailunce%20HD1-AdresTool-v%202.00.rar?raw=true">Ailunce HD1 AdresTool v2.00</a>
 </li><li>
 <a href="https://raw.githubusercontent.com/BM-Database/database/master/userhd.csv">Database voor HD1</a>
 </li>
