@@ -10207,6 +10207,8 @@
 2021486,SV1PBS,Gerasimos,Galatsi,Attiki,GR
 2021487,SV1SFQ,George,Athens,Attiki,GR
 2021488,SY1CXI,Dimitris,Athens,Attiki,GR
+2021489,SV1LKL,SV1LKL,Aharnes,Attiki,GR
+2021490,SV1BDS,George,Athens,Attiki,GR
 2021999,SV1ZJ,Dionisios,Zografos,Attica,GR
 2022001,SV2XI,Kleanthis,Thessaloniki,Makedonia,GR
 2022002,SV2RGC,Konstantinos,Kastoria,Makedonia,GR
@@ -10654,6 +10656,7 @@
 2026055,SV6APZ,Pavlos,Igoemenitsa,Ipeiros,GR
 2026056,SV6NNZ,Kzotos,Ioannina,Ipeiros,GR
 2026057,SV6NOK,Sotirios,Ioannina,Ipeiros,GR
+2026058,SV6NOM,Zack,Ioannina,Ipeiros,GR
 2027001,SV7GBI,Konstantinos,Serres,Makedonia,GR
 2027002,SV7DHC,Sofianos,Kavala,Makedonia,GR
 2027003,SV7JKL,Dimitris,Kavala,Makedonia,GR
@@ -10801,6 +10804,7 @@
 2028075,SY8CDA,Erasmia,Chalkida,Aegean Islands,GR
 2028076,SV8RV,Nionios,Zakynthos,Aegean Islands,GR
 2028077,SV8RRS,Konstantinos,Chalkida,Aegean Islands,GR
+2028078,SV8PEC,Kfagogenis,Corfu,Aegean Islands,GR
 2029001,SV9DKB,Ioannis,Heraklion,Crete,GR
 2029002,SV9AFG,Dimitrios,Irakleion,Crete,GR
 2029003,SV9RPL,Vlassis,Ierapetra,Crete,GR
@@ -10904,6 +10908,7 @@
 2029101,SV9CAC,Maniatis,Heraklion,Crete,GR
 2029102,SV9KIQ,Kostas,Chania,Kriti,GR
 2029103,SV9FBC,Konstantinos,Siteia,Kriti,GR
+2029104,SY9BQY,Manolis,Chania,Kriti,GR
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -11130,7 +11135,7 @@
 2041230,PD0IIT,Fred,Monnickendam,N-H,NL
 2041231,PA0GDL,Rob,Oudkarspel,N-H,NL
 2041232,PD0MAH,Martijn,Hilversum,N-H,NL
-2041233,PE1BVU,Adri,Amsterdam,N-H,NL
+2041233,PE1BVU,,,,NL
 2041234,PA9MG,Marc,Amsterdam,N-H,NL
 2041235,PA5JW,Jan,Uitgeest,N-H,NL
 2041236,PA1AIS,Jugo,Enkhuizen,N-H,NL
@@ -11650,6 +11655,9 @@
 2042448,PD0PWH,Peter,Den Haag,ZH,NL
 2042449,PA1CG,Lars,Den Haag,ZH,NL
 2042450,PD7K,Steven,Lisse,ZH,NL
+2042451,PE1OZS,Dustin,Pijnacker,ZH,NL
+2042453,PD0ARK,Arjan,Rotterdam,ZH,NL
+2042454,PA3GHD,Giuliano,Eindhoven,N-BR,NL
 2043001,PA1MOS,Marco,Amersfoort,UTR,NL
 2043002,PA1GF,Gerjan,Amersfoort,UTR,NL
 2043003,PE1NWR,Tineke,Amersfoort,UTR,NL
@@ -11894,6 +11902,7 @@
 2043245,PI4RCB,Radio,Bunschoten-Spakenburg,UTR,NL
 2043246,PD1MB,Marco,Maarssen,UTR,NL
 2043247,PD3PIM,Pim,Mijdrecht,UTR,NL
+2043248,PD7AGS,Mike,Onbekend,UTR,NL
 2044001,PD4RS,Ruud,Heerlen,LB,NL
 2044002,PD4RS,Ruud,Heerlen,LB,NL
 2044003,PA7DVM,Duncan,Kerkrade,LB,NL
@@ -12082,6 +12091,7 @@
 2044186,PE1SBD,Ger,Heerlen,LB,NL
 2044187,PA8MC,Herwig,Maastricht,LB,NL
 2044188,PC4L,Marcel,S Heer Arendskerke,Zeeland,NL
+2044190,PD0WB,Winfried,Vlissingen,Zeeland,NL
 2045001,PD0AQK,SK,Uden,N-BR,NL
 2045002,PD0AQK,SK,Uden,N-BR,NL
 2045003,PA0RTU,Klaas,Nuenen,N-BR,NL
@@ -12703,7 +12713,7 @@
 2047077,PD1S,Erik,Enschede,OV,NL
 2047078,PA4NL,Jasper,Zwolle,OV,NL
 2047079,PA3EYF,Theo,Lelystad,FLD,NL
-2047080,PA0TWE,Henry,Hengelo,OV,NL
+2047080,PC2KY,Henry,Hengelo,OV,NL
 2047081,PA4NL,Jasper,Zwolle,OV,NL
 2047082,PD7HJ,Henkjan,Dedemsvaart,OV,NL
 2047083,PD1WBS,Marco,Nijverdal,OV,NL
@@ -12884,6 +12894,8 @@
 2047259,PD0PJF,Henk,Hengelo,OV,NL
 2047260,PA1TAS,Paul,Hengelo,OV,NL
 2047261,PC0WP,Wilfried,Hengelo,OV,NL
+2047262,PD1ED,Edwin,Tubbergen,OV,NL
+2047263,PD4JST,Jan,Lelystad,FLD,NL
 2048001,PD1ASH,Rolf,Niebert,GR,NL
 2048002,PD1ALW,Andre,Wijnaldum,FRL,NL
 2048003,PE1PWF,Edwin,Leeuwarden,FRL,NL
@@ -13393,6 +13405,7 @@
 2060235,ON3AY,Danny,Harelbeke-stasegem,WVL,BE
 2060236,ON4BDK,Marnix,Koksijde,WVL,BE
 2060237,ON3HVP,Hendrik,Roeselare,WVL,BE
+2060238,ON3DDW,Danthae,Langemark,WVL,BE
 2061001,ON8SVH,Stijn,Oudenaarde,OVL,BE
 2061002,ON8SI,Simon,Oosterzele,OVL,BE
 2061003,ON5LUC,Luc,Gent,OVL,BE
@@ -13711,6 +13724,7 @@
 2061316,ON3TC,Jino,Sint-Niklaas,OVL,BE
 2061317,ON3TY,Ivanv,Lierde,OVL,BE
 2061318,ON4DJN,Tom,Gent,OVL,BE
+2061319,ON3DK,Patrick,Temse/Tielrode,OVL,BE
 2062001,ON7DS,Dirk,Kontich,ANT,BE
 2062002,ON2DMT,Martine,Kontich,ANT,BE
 2062003,ON7PDW,Peter,Boom,ANT,BE
@@ -13877,6 +13891,7 @@
 2062164,ON1BN,Kris,Heist Op Den Berg,ANT,BE
 2062165,ON3VJU,Jurgen,Berlaar,ANT,BE
 2062166,ON3KAT,Katje,Bornem,ANT,BE
+2062167,ON9CJA,Joris,Arendonk,ANT,BE
 2062168,ON1KS,Koen,Antwerp,ANT,BE
 2062169,ON3YF,Nico,Brasschaat,ANT,BE
 2062999,ON4DBC,Geert,Lint,ANT,BE
@@ -14316,6 +14331,8 @@
 2066134,ON8SAT,Marc,Anderlues,HAI,BE
 2066135,ON5BE,Eric,Cour Sur Heure,HAI,BE
 2066136,ON4ADA,Denis,Attre,HAI,BE
+2066137,ON2RDY,Yves,Maffle,HAI,BE
+2066138,ON7PH,Philippe,Mouscron,HAI,BE
 2067001,ON5UC,Olivier,Fosses-La-Ville,NAM,BE
 2067002,ON5WB,Yves,Namur,NAM,BE
 2067003,ON6NR,UBA,Namur,NAM,BE
@@ -14346,6 +14363,7 @@
 2067028,ON5HH,Hugues,Gembloux,HAI,BE
 2067029,ON5HH,Hugues,Gembloux,HAI,BE
 2067030,ON7YC,Christian,Walcourt,NAM,BE
+2067031,ON3GSU,Gerald,Mettet,NAM,BE
 2068001,ON5VDK,Tjardick,Liege,LIE,BE
 2068002,ON5VDK,Tjardick,Liege,LIE,BE
 2068003,ON4LRG,Robert,Clavier,LIE,BE
@@ -14800,6 +14818,7 @@
 2080318,F4CJA,Malek,Cuy,Yonne,FR
 2080319,F5RDS,Pasquier,Paris,IF,FR
 2080320,F5HLA,Petit,Montigny Le Bretonneux,IF,FR
+2080321,F6GPX,Fortin,Neuilly Plaisance,IF,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Vienne,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -15001,6 +15020,7 @@
 2081199,F4BBI,Montcoudiol,Levens,Alpes-Cte dAzur,FR
 2081200,F1AJK,Diemoz,Bouc Bel Air,Alpes-Cte dAzur,FR
 2081201,F6DQB,Lacroix,Bouc Bel Air,Alpes-Cte dAzur,FR
+2081202,F4WBS,Timothy,Flassans Sur Issole,Alpes-Cte dAzur,FR
 2082001,F4FUL,Cyril,Sciez,Rhone-Alpes,FR
 2082002,F5VIN,Heiko,Thoiry,Rhone-Alpes,FR
 2082003,F1AGU,Charles-Henri,Aillon Le Vieux,Rhone-Alpes,FR
@@ -15753,6 +15773,7 @@
 2086164,F5RXL,Ducos,Yvrac,Nouvelle-Aquitaine,FR
 2086165,F5TBX,Jean-paul,Pompignac,Aquitaine,FR
 2086166,F4GUX,Francois,Cestas,Nouvelle-Aquitaine,FR
+2086167,F4IER,Jacques,Liste Orange,Nouvelle-Aquitaine,FR
 2087001,F6HTJ,Michel,Perpignan,Languedoc-Roussillon,FR
 2087002,F8BSY,Xavier,Ste Marie la Mer,Languedoc-Roussillon,FR
 2087003,F5UPV,Samuel,Nimes,Languedoc-Roussillon,FR
@@ -16436,6 +16457,7 @@
 2089520,F8DRA,Marc,Tancarville,Seine-Maritime,FR
 2089521,F5JDH,Christian,Thiel-sur-Acolin,Auvergne-Rhone-Alpes,FR
 2089522,F8KHN,R.c.,Le Havre,Seine-Maritime,FR
+2089523,F6KTM,RC,Douai,Departement du Nord,FR
 2089998,F8KGD,RC,Fontenay Trsigny,IF,FR
 2089999,F5DAN,Daniel,Vitry sur Seine,IF,FR
 2120001,3A2NG,Roger,Monaco,Monaco,Monaco
@@ -17464,6 +17486,8 @@
 2141994,EB1ISC,Eloy,Ponferrada,Castilla y Leon,ES
 2141995,EA1HBX,Javier,Ourense,Galicia,ES
 2141996,EA1GPA,Isabel,Not released,Galicia,ES
+2141997,EA1ITV,Jonatan,Ourense,Galicia,ES
+2141998,EA1GW,Gabriel,Vigo,Castilla y Leon,ES
 2141999,EA1HET,Jonathan,Gijon,Asturias,ES
 2142001,EA2IP,Jesus,Sestao,Vizcaya,ES
 2142002,EA2IV,Alex,Huesca,Aragon,ES
@@ -18077,7 +18101,7 @@
 2142610,EA2ERB,Oscar,Oiartzun,Aragon,ES
 2142611,EA2DAN,Jaime,Vitoria-Gasteiz,Vizcaya,ES
 2142612,EA2ESA,Alfredo,Lezo,Gipuzkoa,ES
-2142613,EA2EPO,Juan,,Secret,ES
+2142613,EA2EPO,Juan,Pamplona,Navarra,ES
 2142614,EB2BPF,F,Zaragoza,Aragon,ES
 2142615,EA2EFG,Alfonso,Garrapinillos,Aragon,ES
 2142616,EB2AAG,Sendoa,Zaragoza,Aragon,ES
@@ -18085,15 +18109,15 @@
 2142618,EA2ERH,Miguel,Errenteria,Guipuzcoa,ES
 2142619,EA2EQX,Angel,Barakaldo,Bizkaia,ES
 2142620,EA2BZT,Luis,Bilbao,Bizkaia,ES
-2142621,EA2EAS,Nicolas,Not Released,Aragon,ES
-2142622,EA2EPC,Asier,Not Released,Aragon,ES
-2142623,EA2DZQ,Luis,Not Released,Aragon,ES
+2142621,EA2EAS,Nicolas,Llodio,Pais Vasco,ES
+2142622,EA2EPC,Asier,Bilbao,Pais Vasco,ES
+2142623,EA2DZQ,Luis,San Sebastian,Pais Vasco,ES
 2142624,EA2ANF,Jose,Bilbao,Bizkaia,ES
 2142625,EA2ZN,Victor,Irun,Gipuzkoa,ES
 2142626,EA2EQN,Fernando,Not Known,Aragon,ES
 2142627,EA2ESI,Miguel,Not Known,Aragon,ES
-2142628,EA2EOB,Javier,,Gipuzkoa,ES
-2142629,EA2EAG,Javier,,Gipuzkoa,ES
+2142628,EA2EOB,Javier,Vitoria-Gasteiz,Pais Vasco,ES
+2142629,EA2EAG,Javier,Alcala De La Selva,Aragon,ES
 2142630,EA2EPJ,Juan,,Gipuzkoa,ES
 2142631,EA2KK,Julio,Portugalete,Bizkaia,ES
 2142632,EA2ENO,Julen,Balmaseda,Pais Vasco,ES
@@ -18106,10 +18130,13 @@
 2142639,EA2ESK,Adrian,Tarazona,Aragon,ES
 2142640,EA2ELL,Ruben,Pamplona,Navarra,ES
 2142641,EA2ALN,Vicente,Zaragoza,Aragon,ES
-2142642,EA2EKT,Javier,,Navarra,ES
-2142643,EA4DKE,Jose,,Extremadura,ES
-2142644,EB2DVK,Pedro,Not released,Aragon,ES
-2142645,EA2ESL,Iriberri,Not released,Aragon,ES
+2142642,EA2EKT,Javier,Irun,Pais Vasco,ES
+2142643,EA4DKE,Jose,Galdakao,Pais Vasco,ES
+2142644,EB2DVK,Pedro,Alpartir,Aragon,ES
+2142645,EA2ESL,Iriberri,Vitoria-Gasteiz,Pais Vasco,ES
+2142646,EA2CKQ,Enrique,Ansoain,Navarra,ES
+2142647,EA2MKR,Joseba,Pamplona,Navarra,ES
+2142648,EA2ESJ,Pedro,Not released,Navarra,ES
 2143001,EA3DKP,Ricardo,Roses,Girona,ES
 2143002,EA3DKP,Ricardo,Roses,Girona,ES
 2143003,EA3DKP,Ricardo,Roses,Girona,ES
@@ -18953,6 +18980,7 @@
 2143841,EA3EUX,Vicente,Barcelona,Cataluna,ES
 2143842,EA3IHG,Jordi,Terrassa,Cataluna,ES
 2143843,EA3HSX,Roberto,Barcelona,Cataluna,ES
+2143844,EA3MGG,Mario,Salou Tarragona,Cataluna,ES
 2144001,EA4FVK,Humphrey,Albacete,Castile-La Mancha,ES
 2144002,EA4GQW,Pablo,Madrid,Community of Madrid,ES
 2144003,EA4AAE,Javier,Madrid,Community of Madrid,ES
@@ -19713,6 +19741,7 @@
 2144758,EA4HGN,Jorge,Torrejon De La Calzada,Extremadura,ES
 2144759,EA4FXZ,Fran,Mostoles,Extremadura,ES
 2144760,EA4HGM,David,Fuenlabrada,Extremadura,ES
+2144761,EA4HEO,David,Quintanar De La Orden,Extremadura,ES
 2144762,EA4GXP,Marcos,Madrid,Extremadura,ES
 2144763,EB4DNS,F,Alcali De Henares,Extremadura,ES
 2144764,EA4HGR,Francisco,Villacaas,Extremadura,ES
@@ -19723,6 +19752,10 @@
 2144769,EA4BY,Pablo,Madrid,Extremadura,ES
 2144770,EA4AV,Pedro,Malpartida De Caceres,Extremadura,ES
 2144771,EA4FXZ,Frantg,Madrid,Extremadura,ES
+2144772,EA4FZR,Manuel,Alcali De Henares,Extremadura,ES
+2144773,EA5IHY,Juan,Valdeganga,Extremadura,ES
+2144774,EA4BWQ,Jose,Madrid,Extremadura,ES
+2144775,EA4HBX,Kico,Madrid,Extremadura,ES
 2145001,EA5AWM,Vicente,Valencia,Valencia,ES
 2145002,EA5AWM,Vicente,Valencia,Valencia,ES
 2145003,EA5HJX,Alex,Valencia,Valencia,ES
@@ -20573,12 +20606,14 @@
 2145848,EA5GZW,Toni,Valdeganga,Albacete,ES
 2145849,EA5ZZ,Francisco,Valdeganga,Albacete,ES
 2145850,EB5HCP,Miguel,Calpe,Valencia,ES
+2145851,EA5SG,Blas,Villarreal,Valencia,ES
 2145852,EA5GUV,Fernando,Ontinyent,Valencia,ES
 2145853,EB5IQN,Ramos,Cieza,Valencia,ES
 2145854,EA5DDK,Jose,Cieza,Valencia,ES
 2145855,EB5DM,Silva,Murcia,Valencia,ES
 2145856,EA5IXH,Juan,Murcia,Valencia,ES
 2145857,EA5HMB,Andi,Murcia,Valencia,ES
+2145858,EA5GMV,Javier,Massamagrell,Valencia,ES
 2146001,EA6AFZ,Antonio,Inca,Islas Baleares,ES
 2146002,EA6AID,Ana,Inca,Islas Baleares,ES
 2146003,EA6AFZ,Antonio,Inca,Islas Baleares,ES
@@ -21507,6 +21542,7 @@
 2147849,EA7KHS,Jose,Malaga,Andalucia,ES
 2147850,EC7DZZ,Javier,La Gangosa,Andalucia,ES
 2147851,EA7IVE,Rafael,Malaga,Andalucia,ES
+2147852,EA7IKM,Juan,Motril,Andalucia,ES
 2148001,EA8II,Eduardo,Tenerife,Islas Canarias,ES
 2148002,EA8EE,Jose,Las Palmas,Islas Canarias,ES
 2148003,EA8EE,Jose,Las Palmas,Islas Canarias,ES
@@ -22103,6 +22139,8 @@
 2165131,HA5SZI,Istvan,Budapest,Budapest,HU
 2165132,HA5VQ,Csapo,Tinnye,Pest,HU
 2165133,HA7WHO,Robert,Budapest,Budapest,HU
+2165134,HA7CQ,Schneider,Paty,Budapest,HU
+2165135,HG1DEG,Gyozo,Budapest,Budapest,HU
 2167001,HG7JML,Otto,Erd,Calabarzon,HU
 2167002,HA5OGR,Lajos,Dunavarsany,Pest,HU
 2167003,HA7TP,Peter,Veresegyhaz,Pest,HU
@@ -22230,6 +22268,7 @@
 2167125,HA7BJA,Beres,Urom,Pest,HU
 2167126,HA7KFE,Istvan,Martfu,Jasz-Nagykun-Szolnok,HU
 2167127,HG7JPP,Peter,Tarnok,Pest,HU
+2167128,HA6IFX,Csati,Hevesaranyos,Heves,HU
 2168001,HA3TL,Laszlo,Debrecen,Veszprum,HU
 2168002,HA0BW,Imre,Debrecen,Hajdu-Bihar,HU
 2168003,HA0DR,Lajos,Debrecen,Hajdu-Bihar,HU
@@ -22493,6 +22532,7 @@
 2180179,E72RAD,Damir,Bihac,Bosnia-Herzegovina,BA
 2180180,E75EDK,Emrah,Kalosevic,Bosnia-Herzegovina,BA
 2180181,E78SND,Nevenko,Siroki Brijeg,Bosnia-Herzegovina,BA
+2180182,E73FS,Fikret,Ilidza,Bosnia-Herzegovina,BA
 2190001,9A5PH,Richard,Murter,Zadarska zupanija,HR
 2190002,9A5DW,Johann,Zadar,Zadarska zupanija,HR
 2190003,9A0W,Ivan,Oroslevje,Krapinsko-zagorsko zupanijo,HR
@@ -22720,6 +22760,7 @@
 2190225,9A4FB,Zeljko,Bjelovar,Bjelovar-Bilogora,HR
 2190226,9A7IHR,Ozren,Lopatinec,Sveti Juraj na Bregu,HR
 2190227,9A3MVA,Unibox,Rijeka,Primorje-Gorski Kotar,HR
+2190228,9A3GIB,Igor,Vojnic,Karlovac,HR
 2200001,YT2CQ,Miloslav,Novi Sad,Vojvodina,RS
 2200002,YU1VI,Slobodan,Beograd,Beograd,RS
 2200003,YU5JZI,Igor,Beograd,Beograd,RS
@@ -22969,6 +23010,9 @@
 2200247,YU1SIV,Milan,Belgrade,Beograd,RS
 2200248,YU4SRB,Dimitrije,Belgrade,Beograd,RS
 2200249,YU1NJD,Njegos,Beograd,Beograd,RS
+2200250,YU4APP,Perisa,Kovilovo,Beograd,RS
+2200251,YU2MDP,Velisa,Sremska Kamenica,Vojvodina,RS
+2200252,YU7FA,Zeljko,Backa Palanka,Juzna Backa,RS
 2220001,IK0YYY,Luca,Rome,LAZ,IT
 2220002,IK0YYY,Luca,Roma,UMB,IT
 2220003,IW0BEC,Eugenio,Rome,LAZ,IT
@@ -24918,6 +24962,9 @@
 2221947,IZ0TWK,Sara,Terni,UMB,IT
 2221948,IU1FNH,Gianni,Cremolino,PIE,IT
 2221949,IZ1KFZ,Emiliano,Sant Antonino Di Susa,PIE,IT
+2221950,IK0RPV,Massimiliano,Frascati,LAZ,IT
+2221951,IZ1RHG,Edgar,Occhieppo Superiore,PIE,IT
+2221952,IU0HLT,Massimiliano,Viterbo,LAZ,IT
 2222001,IW2DCK,Germano,Capriate San Gervasi,LOM,IT
 2222002,IW2BCF,Roberto,Milano,LOM,IT
 2222003,IZ2JGB,Giorgio,Legano,LOM,IT
@@ -27824,6 +27871,16 @@
 2224904,IU3ELI,Marco,Camposampiero,VEN,IT
 2224905,IK4POO,Massimo,Savignano sul Rubicone,EMI,IT
 2224906,IV3MUR,Cesare,Trieste,VEN,IT
+2224907,IW3IPE,Gianni,Este,VEN,IT
+2224908,IQ4VU,Ass,Piacenza,EMI,IT
+2224909,IW3IDB,Wendi,Farra Dalpago,VEN,IT
+2224910,IU3GOP,Achille,Orsago,VEN,IT
+2224911,IV3GHF,Marco,Caneva,FRI,IT
+2224912,IU2DZE,Angelo,Desio,LOM,IT
+2224913,IZ3KSP,Gianluca,San Dona di Piave,VEN,IT
+2224914,IW3IFH,Enrico,Tribano,VEN,IT
+2224915,IU3ELS,Paolo,Mestre,VEN,IT
+2224916,IK2WYJ,Stefano,Milano,LOM,IT
 2225001,IZ5IOM,Renzo,Quarrata,TOS,IT
 2225002,IZ5HRO,Emanuele,Pistoia,TOS,IT
 2225003,IZ5YLV,Valentina,Pistoia,TOS,IT
@@ -28302,6 +28359,9 @@
 2225476,IZ5OPY,Maurizio,Massa,TOS,IT
 2225477,I5GJK,Fabio,Montemurlo,TOS,IT
 2225478,IU5HKP,Massimiliano,Colle Di Val Delsa,TOS,IT
+2225480,IU5MPR,Fausto,Guamo-Lucca,TOS,IT
+2225481,IW5CPM,Marco,Borgo A Mozzano,TOS,IT
+2225482,IU5NFQ,Erwin,Abetone Cutigliano,TOS,IT
 2225555,IW5CGM,Giuseppe,Viciomaggio,TOS,IT
 2226001,IZ6FGP,Mario,Ortona,ABR,IT
 2226002,IK6TTE,Plinio,Casalbordino,ABR,IT
@@ -29230,6 +29290,8 @@
 2227523,IZ7NFA,Vincenzo,Vico Del Gargano,Apulia,IT
 2227524,IK7PBI,Francesco,Faggiano,Apulia,IT
 2227525,IU7ENG,Ghinghero,Altamura,Apulia,IT
+2227526,IZ8SKE,Marcello,Taranto,Apulia,IT
+2227527,IU7GSK,Tony,Mattinata,Apulia,IT
 2228001,IZ8IYJ,Nicola,Cosenza,CAL,IT
 2228002,IW8XQP,Elio,Isernia,MOL,IT
 2228003,IZ8XSS,Federico,Aversa,CAM,IT
@@ -29947,6 +30009,8 @@
 2228715,IZ8GEL,Mario,Palma,CAM,IT
 2228716,IU8GTI,Leonardo,Trebisacce,CAL,IT
 2228717,IZ8WLZ,Nino,Cosenza,CAL,IT
+2228718,IW8EXE,Antonio,Palma Campania,CAM,IT
+2228719,IW8FBZ,Pablo,Napoli,CAM,IT
 2229001,IT9YFO,Andrea,Catania,SIC,IT
 2229002,IT9ZON,Francesco,Catania,SIC,IT
 2229003,IT9UUT,Salvo,Ispica,SIC,IT
@@ -30414,6 +30478,10 @@
 2229465,IT9AST,Roberto,Carini,SIC,IT
 2229466,IT9RTA,Giuseppe,Noto,SIC,IT
 2229467,IT9KPE,Giuseppe,Palermo,SIC,IT
+2229468,IT9ICX,Gabriele,Lentini,SIC,IT
+2229469,IT9HOJ,Giovanni,Licodia Eubea,SIC,IT
+2229470,IT9QCN,Carmelo,Licodia Eubea,SIC,IT
+2229471,IT9CIO,Lo,Menfi,SIC,IT
 2260001,YO5DSG,Daniel,Cluj-Napoca,Judeoul Cluj,RO
 2261000,YO5DSG,Daniel,Cluj-Napoca,Judeoul Cluj,RO
 2261001,YO3GTS,Dan,Bucharest,Bucharest,RO
@@ -30489,6 +30557,7 @@
 2262070,YO2LZH,Petru,Hateg,Hunedoara,RO
 2262071,YO2ACJ,Razvan,Timisoara,Timis,RO
 2262072,YO2LXE,Tavi,Resita,Timis,RO
+2262073,YO2BIP,Cristi,Baile Herculane,Hunedoara,RO
 2263000,YO3KSR,Asrr,Bucharest,Bucharest,RO
 2263001,YO3GTS,Dan,Bucharest,Bucharest,RO
 2263002,YO3HJV,Adrian,Bucharest,Bucharest,RO
@@ -30719,6 +30788,7 @@
 2265055,YO5IB,Ionut,Alba Iulia,Alba,RO
 2265056,YO5BAK,Emil,Santaul Mare,Bihor,RO
 2265057,YO5IB,Ionut,Alba Iulia,Alba,RO
+2265058,YO5OCV,Calin-Gavril,Cluj Napoca,Cluj,RO
 2265555,YO5KFG,Cafe,Cluj-Napoca,Transylvania,RO
 2266001,YO6HDJ,Iulian,Fagaras,Brasov,RO
 2266002,YO6IKC,Carla,Fagaras,Brasov,RO
@@ -30818,6 +30888,7 @@
 2266096,YO6PVH,Csaba,Targu Mures,Mures,RO
 2266097,YO6PVP,Daniel,Targu Mures,Mures,RO
 2266098,YO6JAC,Marcel,Brasov,Brasov,RO
+2266099,YO6CBO,Ovidiu,Rasnov,Brasov,RO
 2267001,YO7GQZ,Catalin,Pitesti,Arges,RO
 2267002,YO7GTM,Adrian,Rimnicu Vilcea,Valcea,RO
 2267003,YO7IIY,Florin,Arges,Arges,RO
@@ -30840,6 +30911,7 @@
 2267020,YO7IJO,Geo,Valcea,Valcea,RO
 2267021,YO7OWI,Ovidiu,Pitesti,Arges,RO
 2267022,YO7NAE,George,Topoloveni,Arges,RO
+2267023,YO7IUM,Mihai,Merisani,Arges,RO
 2268001,YO8TEH,Isidor,Bacau,Bacu,RO
 2268002,YO8RCM,Teodor,Roman,Neamo,RO
 2268003,YO8TES,Stirbu,Bacau,Judeoul Timi,RO
@@ -30916,6 +30988,7 @@
 2269019,YO9HHH,Boboc,Tineretului,Giurgiu,RO
 2269020,YO9BNP,Nicolae,Giurgiu,Giurgiu,RO
 2269021,YO9PAF,Andrei,Giurgiu,Giurgiu,RO
+2269022,YO9CMF,MIHAI,Calarasi,Calarasi,RO
 2280000,DSTAR,DSTAR,No qth,ZH-TG,CH
 2280001,4U1ITU,International,Geneva,Geneva,CH
 2281001,HB3YNV,Cedric,Saint-Cergue,,CH
@@ -31142,6 +31215,7 @@
 2281222,HB9AE,Lutry,Lutry,Westschweiz-Sud,CH
 2281223,HB3XUH,Floriane,Montreux,Westschweiz-Sud,CH
 2281224,HB3XUI,Laurent,Montreux,Westschweiz-Sud,CH
+2281225,HB9TCT,Leo,Bruenisried,Westschweiz-Sud,CH
 2282001,HB9OOI,Stephan,Grenchen,Solothurn,CH
 2282002,HB9BEI,Bruno,Taeuffelen,Bern,CH
 2282003,HB9EZV,Michel,La Neuveville,Westschweiz-Nord,CH
@@ -32516,6 +32590,7 @@
 2301140,OK8VE,Eugene,Nupaky,Stredocesky,CZ
 2301141,OK1ITK,Petr,Benesov,Stredocesky,CZ
 2301142,OK1SMP,Mirek,Praha,Hlavni mesto Praha,CZ
+2301143,OK1BOH,Renda,Praha,Hlavni mesto Praha,CZ
 2302001,OK8APJ,Torsten,Marianske Lazne,Karlovy Vary,CZ
 2302002,OK1BLG,Peter,Rokycany,Plze,CZ
 2302003,OK1VHB,Martin,Psek,Jihocesky,CZ
@@ -33318,6 +33393,7 @@
 2322049,OE2RNM,Gerhard,Salzburg,Salzburg,AT
 2322050,OE2KNN,Karl,Uttendorf,Salzburg,AT
 2322051,OE2ADE,Andy,Schwarzach,Salzburg,AT
+2322052,OE2AKO,Alexander,Salzburg,Salzburg,AT
 2323001,OE3OLU,Robert,Klosterneuburg,Niederoesterreich,AT
 2323002,OE3OLU,Robert,Klosterneuburg,Niederoesterreich,AT
 2323003,OE3RGB,Rainer,Heidenreichstein,Niederoesterreich,AT
@@ -34057,6 +34133,7 @@
 2326190,OE6HFG,Franz,Murau,Steiermark,AT
 2326191,OE6HFF,Heinz,Graz,Steiermark,AT
 2326192,OE6FBI,Michael,Graz,Steiermark,AT
+2326193,OE6ETF,Engelbert,Eisenerz,Steiermark,AT
 2326201,OE6OLD,Heimo,Weinburg Sassbach,Steiermark,AT
 2326221,OE6KWD,Wolfgang,Kapfenberg,Steiermark,AT
 2326222,OE6JFG,Franz,Bruck Mur,Steiermark,AT
@@ -34500,6 +34577,7 @@
 2329113,OE9MNR,Michael,Wolfurt,Vorarlberg,AT
 2329114,OE9BOK,Klaus,Bregenz,Vorarlberg,AT
 2329115,OE9IHR,Ozren,Vorarlberg,Vorarlberg,AT
+2329116,OE9CBV,Christoph,Lauterach,Vorarlberg,AT
 2340000,G8SJP,Iain,Aylesbury,England,UK
 2340001,G8SJP,Iain,Aylesbury,England,UK
 2341001,G0RDI,Iain,Bourne,England,UK
@@ -41165,6 +41243,7 @@
 2347662,2E0JUX,Adrian,Shrewsbury,England,UK
 2347663,M7AKS,Devv,Wolverhampton,England,UK
 2347664,M6PJV,Kenneth,Northwich,England,UK
+2347665,M7HBG,Hauke,London,England,UK
 2347666,M7OOL,Simon,Littlehampton,England,UK
 2347667,M0SYL,Sylwek,Swindon,England,UK
 2347668,G4WUH,Ian,Newent,England,UK
@@ -41203,6 +41282,34 @@
 2347706,M7RSC,Jon,Weston-Super-Mare,England,UK
 2347708,G7BPN,Ken,Crook,England,UK
 2347710,G7JWR,Martin,Saint Cloud,US,UK
+2347711,G0RFQ,Geoff,Trawden,England,UK
+2347712,M7TVT,Matt,Sheffield,England,UK
+2347713,M7PLB,Pauline,Manchester,England,UK
+2347714,M7CDP,Keith,Grimsby,England,UK
+2347716,M0IVN,Lym,London,England,UK
+2347717,M7DHD,Rob,Crewkerne,England,UK
+2347718,2E0CCD,Chris,Manchester,England,UK
+2347720,G4NIW,Dell,Chelmsford,England,UK
+2347723,M7ESW,Jamie,Consett,England,UK
+2347724,G6EJD,David,Melksham,England,UK
+2347725,G6HBX,Roger,Lincoln,England,UK
+2347726,M0TIZ,Zxtiz,Polegate,England,UK
+2347727,M7MAV,Ryan,Sunderland,England,UK
+2347729,G1PNB,Steven,Manchester,England,UK
+2347730,G0VPS,David,Rotherham,England,UK
+2347732,G4UQR,John,Great Brickhill,England,UK
+2347736,2E0SSD,Andrew,Thame,England,UK
+2347737,G4MJS,Peter,Reading,England,UK
+2347738,M3FJU,Tadg,Basildon,England,UK
+2347740,G6UVU,John,Wolverhampton,England,UK
+2347741,G0WXJ,Pete,E. Cowes,England,UK
+2347742,G3LMO,Neville,Bottlesford,England,UK
+2347743,2E0MYZ,Jonathan,Chelmsford,England,UK
+2347744,M6DCV,Dave,Not released,England,UK
+2347745,G1FHY,Simon,Eastbourne,England,UK
+2347746,M7HYP,Darran,St Austell,England,UK
+2347747,M0EEJ,Darren,Sandwich,England,UK
+2347748,M7DXD,M,Not released,England,UK
 2349999,GM0RDI,Iain,Lincoln,England,UK
 2351001,G0PRF,John,Huddersfield,England,UK
 2351002,G0PRF,John,Huddersfield,England,UK
@@ -43746,6 +43853,9 @@
 2353543,MW1CGG,James,Wrexham,Wales,UK
 2353544,MW6DQB,Pablo,Neath,Wales,UK
 2353545,GW4SHF,Stephen,Penbrey,Wales,UK
+2353546,MW6IQF,Dave,Wrexham,Wales,UK
+2353547,MW0RCZ,Rich,Machynlleth,Wales,UK
+2353548,GW7APM,Clive,Coed-Llai,Wales,UK
 2354001,MM0MBK,mark,Cairneyhill,Scotland,UK
 2354002,MM0MBK,mark,Cairneyhill,Scotland,UK
 2354003,MM0MBK,mark,Cairneyhill,Scotland,UK
@@ -44407,7 +44517,7 @@
 2354659,MM0XME,Simon,Helensburgh,Scotland,UK
 2354660,MM6SSI,Stephen,Banchory,Scotland,UK
 2354661,GM1MRS,Les,Keith,Scotland,UK
-2354662,MM0YSO,Ana,,Scotland,UK
+2354662,MM0YSO,Ana,Aberdeen,Scotland,UK
 2354663,2M0FMU,Angus,Dingwall,Scotland,UK
 2354664,MM3GQR,Stella,Oban,Scotland,UK
 2354665,2M0INM,Ian,Dunning,Scotland,UK
@@ -44417,13 +44527,13 @@
 2354669,MM7CEH,Clark,Bathgate,Scotland,UK
 2354670,MM6OBU,Keven,Glasgow,Scotland,UK
 2354671,2M0FPI,Michael,Aberdeen,Scotland,UK
-2354672,MM0VIV,Bryan,Not shared,Scotland,UK
-2354673,MM7AJJ,Michail,,Scotland,UK
+2354672,MM0VIV,Bryan,Edinburgh,Scotland,UK
+2354673,MM7AJJ,Michail,Glasgow,Scotland,UK
 2354674,MM7AJE,Paul,,Scotland,UK
 2354675,MM7AJI,Bartek,,Scotland,UK
 2354676,MM0LUP,Ally,Ysle of Skye,Scotland,UK
 2354677,GM8JCF,Peter,Cullen,Scotland,UK
-2354678,MM6CBH,Colin,No Residence Given,Scotland,UK
+2354678,MM6CBH,Colin,Aberfeldy,Scotland,UK
 2354679,GM4LUD,Rod,Birkhill,Scotland,UK
 2354680,GM4UYZ,Bob,Prestonpans,Scotland,UK
 2354681,GM0EZP,Ernie,Paisley,Scotland,UK
@@ -44443,9 +44553,14 @@
 2354695,MM7KEL,Stephen,Glasgow,Scotland,UK
 2354696,GM7FIS,Jim,Kildrum,Scotland,UK
 2354697,MM3KZD,Stuart,Dunbar,Scotland,UK
-2354699,GM3ZTO,Chris,,Scotland,UK
+2354699,GM3ZTO,Chris,Oban,Scotland,UK
 2354700,MM7CEH,Clark,Bathgate,Scotland,UK
 2354701,MM7MMB,Adam,Glasgow,Scotland,UK
+2354702,GM4CMI,Bob,Dalkeith,Scotland,UK
+2354703,MM7VIM,Fraser,Edinburgh,Scotland,UK
+2354704,MM7DEF,Alex,Edinburgh,Scotland,UK
+2354705,GM0NXO,George,Kirkcaldy,Scotland,UK
+2354706,MM6USS,Ewen,Dunfermline,Scotland,UK
 2355001,MI3WWF,Mark,Bangor,Northern Ireland,UK
 2355002,GI8VKA,Roy,Ballynure,Northern Ireland,UK
 2355003,MI0AAZ,John,Kilrea,Northern Ireland,UK
@@ -44946,6 +45061,7 @@
 2355500,MI7DLD,David,Belfast,Northern Ireland,UK
 2355501,MI7NIA,John,Belfast,Northern Ireland,UK
 2355502,MI0LNL,Mark,Cookstown,Northern Ireland,UK
+2355504,MI7FAC,Jamie,Lurgan,Northern Ireland,UK
 2356001,GD6XHG,Ed,Douglas,Isle of Man,UK
 2356002,GD6XHG,Ed,Douglas,Isle of Man,UK
 2356003,GD0NFN,John,Isle of Man,Isle of Man,UK
@@ -45651,7 +45767,7 @@
 2383265,OZ7HF,Harald,Toftlund,Syddanmark,DK
 2383266,OZ1JRS,Carsten,Jardelund,Syddanmark,DK
 2383267,OZ2JBJ,Johnny,Vordingborg,Syddanmark,DK
-2383268,OZ8FF,Glen,Esbjerg,Syddanmark,DK
+2383268,OZ8FF,Glen,Flemloese,Syddanmark,DK
 2383269,OZ2LP,Leif,Odense,Syddanmark,DK
 2383270,OZ0JB,Jacob,Odense,Syddanmark,DK
 2383271,OZ1FDZ,Frank,Sydals,Syddanmark,DK
@@ -45662,15 +45778,15 @@
 2383276,OZ3DTP,Dennis,Vissenbjerg,Syddanmark,DK
 2383277,OZ3ZE,Kenny,Fredericia,Syddanmark,DK
 2383278,OZ1DTA,Polle,Rodding,Syddanmark,DK
-2383279,OZ4RTX,Dennis,privat,Syddanmark,DK
-2383280,OZ5KSE,Karlo,privat,Syddanmark,DK
+2383279,OZ4RTX,Dennis,Odense,Syddanmark,DK
+2383280,OZ5KSE,Karlo,Rdding,Syddanmark,DK
 2383281,OZ2MCH,Anne,Roslev,Syddanmark,DK
 2383282,OZ1BPP,Lars,Esbjerg,Syddanmark,DK
 2383283,OZ1M,Terje,Vejle,Syddanmark,DK
 2383284,OZ1PDE,Preben,Augustenborg,Syddanmark,DK
 2383285,OZ7TBE,Torben, City,Syddanmark,DK
 2383286,OZ2KZN,Kurt,Haderslev,Syddanmark,DK
-2383287,OZ9HBR,Heintje, City,Syddanmark,DK
+2383287,OZ9HBR,Heintje,Ringe,Syddanmark,DK
 2383288,OZ2AJJ,Aage,Odense,Syddanmark,DK
 2383289,OZ7U,Bjarne,Odense,Syddanmark,DK
 2383290,OZ1J4K,Jakob,Please mail the missing info,Syddanmark,DK
@@ -45683,6 +45799,7 @@
 2383297,OZ1CTU,Bruno,Give,Syddanmark,DK
 2383298,OZ1EIO,Allan,Kolding,Syddanmark,DK
 2383299,OZ6SHE,Steffen,Nrager,Syddanmark,DK
+2383300,OZ1KVB,Erik,Soenderborg,Syddanmark,DK
 2383666,OZ9XQ,Mogens,Sydals,Syddanmark,DK
 2384001,OZ3MAJ,Martin,Herlev,Hovedstaden,DK
 2384002,OZ3MAJ,Martin,Herlev,Hovedstaden,DK
@@ -46283,17 +46400,20 @@
 2385275,OZ1GTX,Martin,Sakskoebing,Sjaelland,DK
 2385276,5P1Q,Rolf,Holbaek,Sjaelland,DK
 2385277,OZ1LVN,Lars,Vils,Nordjylland,DK
-2385278,OZ12Q,Lone, City,Nordjylland,DK
+2385278,OZ12Q,Lone,Vig,Nordjylland,DK
 2385279,OZ2KCH,Kasper,St.Merloese,Sjaelland,DK
 2385280,OZ8MJ,Karsten,Risskov,Midtjylland,DK
-2385281,OZ2MC,Morten,,Midtjylland,DK
-2385282,OZ1BTZ,Michael,,Midtjylland,DK
+2385281,OZ2MC,Morten,Grlev,Midtjylland,DK
+2385282,OZ1BTZ,Michael,Bog By,Midtjylland,DK
 2385283,OV1CDX,Frank,Lundby,Sjaelland,DK
 2385284,OZ1KF,LB,Lundby,Sjaelland,DK
 2385285,OZ1HYI,Willy,Lundby,Sjaelland,DK
 2385286,OZ1PER,Per,Stubbekoebing,Sjaelland,DK
 2385287,OZ1AQW,Ejnert,Faarevejle,Sjaelland,DK
-2385288,OZ1ALT,Soeren,,Sjaelland,DK
+2385288,OZ1ALT,Soeren,Holbaek,Sjaelland,DK
+2385289,OZ4TR,Tommy,Skibby,Sjaelland,DK
+2385290,OZ1LXO,Henrik,Horve,Sjaelland,DK
+2385291,OZ1EBK,Kay,Praest,Sjaelland,DK
 2385500,OZ1KONG,Hans,Nykoebing Sj,Sjaelland,DK
 2385555,OZ3BB,Mogens,Roedby,Sjaelland,DK
 2385959,OZ1DR,Alex,Roervig,Sjaelland,DK
@@ -46678,10 +46798,11 @@
 2400377,SA0AZT,Mattias,Riala,Stockholm Laen-B,SE
 2400378,SM0MOK,Jan,Varby,Stockholm Laen-B,SE
 2400379,SM0WHQ,John,Tumba,Stockholm City-A,SE
-2400380,SM0DAT,Thomas,Stockholm,Stockholm,SE
-2400381,SA0DAT,Thomas,Stockholm,Stockholm,SE
+2400380,SM0DAT,Thomas,Taby,Stockholm,SE
+2400381,SA0DAT,Thomas,Taby,Stockholm,SE
 2400382,SM0NYD,Henry,Stockholm,Stockholm City-A,SE
 2400383,SA0NET,Alice,Stockholm,Stockholm City-A,SE
+2400384,SA0RAF,Rory,Jaerna,Stockholm Laen-B,SE
 2401001,SM5IGF,Staffan,Linkoeping,Gotland-I,SE
 2401002,SM1NVX,Dag,Klintehamn,Gotland-I,SE
 2401003,SA1CCQ,Eddie,Romakloster,Gotland-I,SE
@@ -47667,6 +47788,7 @@
 2406322,SM6PVU,Tommy,Stenungsund,Goeteborg och Bohus-O,SE
 2406323,SM6VLK,Ingvar,Stenungsund,Goeteborg och Bohus-O,SE
 2406324,SM6RWJ,Jerker,Alingsas,Aelvborg-P,SE
+2406325,SA6KHZ,Peter,Goeteborg,Goeteborg och Bohus-O,SE
 2407001,SM7URN,Patrik,Solvesborg,Blekinge Laen,SE
 2407002,SM7URN,Patrik,Solvesborg,Blekinge Laen,SE
 2407003,SA7BRM,Robert,Malmoe,Skane,SE
@@ -48217,6 +48339,7 @@
 2421108,LA1HU,Jan,Drobak,Akershus,NO
 2421109,LA1AKA,Torstein,Nittedal,Akershus,NO
 2421110,LA2DQ,Arild,Lrenskog,Akershus,NO
+2421111,LA5ERA,Stian,As,Akershus,NO
 2422001,LA3QMA,Kai,Bergen,Hordaland,NO
 2422002,LA3QMA,Kai,Bergen,Hordaland,NO
 2422003,LA3QMA,Kai,Bergen,Hordaland,NO
@@ -48287,6 +48410,7 @@
 2422068,LB6LI,Egon,Erdal,Hordaland,NO
 2422069,LA3YP,Alf,Vossestrand,Hordaland,NO
 2422070,LA1LBK,Knm,Bergen,Hordaland,NO
+2422071,LB8ZH,Terry,Norheimsund,Hordaland,NO
 2423001,LA9XFA,Eivind,Sandnes,Rogaland,NO
 2423002,LA3JKA,Svein,Stavanger,Rogaland,NO
 2423003,LA3JKA,Svein,Stavanger,Rogaland,NO
@@ -48438,6 +48562,7 @@
 2425032,LA6MO,Jan,Maloy,Sogn og Fjordane,NO
 2425033,LB2HG,Harald,Alesund,More og Romsdal,NO
 2425034,LB0TH,Frode,Baverfjord,More og Romsdal,NO
+2425035,LA6IMA,Mike,Aukra,More og Romsdal,NO
 2426001,LB9VE,Magnus,Drammen,Buskerud,NO
 2426002,LB9VE,Magnus,Drammen,Buskerud,NO
 2426003,LB9VE,Magnus,Drammen,Buskerud,NO
@@ -48603,6 +48728,8 @@
 2426163,LA1PRA,Helge,Skrautvnl,Buskerud,NO
 2426164,LB1A,Arvid,Furnes,Hedmark,NO
 2426165,LA1WOA,Jon,Hovet,Buskerud,NO
+2426166,LB6BI,Ole,Vestfossen,Buskerud,NO
+2426167,LA4RRA,Frode,Kongsvinger,Hedmark,NO
 2427001,LA3VW,Odd,Arendal,Aust-Agder,NO
 2427002,LA4CSA,Tarjei,Vinje,Telemark,NO
 2427003,LA7LW,Ole,Arendal,Aust-Agder,NO
@@ -48651,6 +48778,8 @@
 2427046,LA7TN,Tos,Lillesand,Aust-Agder,NO
 2427047,LA5AKA,Eistein,Porsgrunn,Telemark,NO
 2427048,LA1YTA,Geir,Testransda,Vest-Agder,NO
+2427049,LA5ZO,Geir,Borhaug,Vest-Agder,NO
+2427050,LA4KPA,Espen,Mandal,Vest-Agder,NO
 2428001,LA9CKA,Tom,Sandefjord,Vestfold,NO
 2428002,LA9CKA,Tom,Sandefjord,Vestfold,NO
 2428003,LA8UU,Odd,Sande,Vestfold,NO
@@ -49448,6 +49577,7 @@
 2444019,OH4MM,Matti,Mikkeli,Mikkeli,FI
 2444020,OH4YT,Kalevi,Nuutilanmaeki,Mikkeli,FI
 2444021,OH4BTF,Markus,Mikkeli,Mikkeli,FI
+2444022,OH5TL,Timo,Savonlinna,Mikkeli,FI
 2445001,OH5HCJ,Matti,Lappeenranta,Lappeenranta,FI
 2445002,OH5HCJ,Matti,Lappeenranta,Lappeenranta,FI
 2445003,OH5HCJ,Matti,Lappeenranta,Lappeenranta,FI
@@ -49612,7 +49742,8 @@
 2446104,OH6MOS,Alf,Kronoby,Osterbotten,FI
 2446105,OH6IH,Alf,Kronoby,Osterbotten,FI
 2446106,OH6V,Petteri,Vaasa,Keski-Suomi,FI
-2446107,OH6UDU,Mikko,,Osterbotten,FI
+2446107,OH6UDU,Mikko,Vaasa,Osterbotten,FI
+2446108,OH6EXW,Henri,Jyvaeskylae,Keski-Suomi,FI
 2447000,OH3HAM,Radio,Kuopio,Kuopio,FI
 2447001,OH7EOW,Jani,Joensuu,Pohjois-Karjala,FI
 2447002,OH7KFA,Veini,Tervo,Kuopio,FI
@@ -49751,6 +49882,7 @@
 2449018,OH9AA,Kemin,Kemi,Lappi,FI
 2449019,OH9FIV,Pekka,Kemi,Lappi,FI
 2449020,OH9FTW,Vladimir,Rovaniemi,Lappi,FI
+2449021,OH9EKT,Vadim,Ivalo,Lappi,FI
 2460001,LY4TG,Tadas,Vilnius,Baltic states,Lithunia
 2460002,LY4NS,Natanielius,Vilnius,Baltic states,Lithunia
 2460003,LY3NFF,Aleks,Vilnius,Baltic states,Lithunia
@@ -49947,6 +50079,7 @@
 2500132,R0CCL,Dmitry,Khabarovsk,Krasnoyarsk,RU
 2500133,R0CCS,Maxim,Khabarovsk,Krasnoyarsk,RU
 2500136,UA0LMC,Alexey,Vladivostok,Primorsky Krai,RU
+2500137,R0CCG,Rim,Khabarovsk,Khabarovsk,RU
 2500139,UB0AHT,Dmitry,Krasnoyarsk,Krasnoyarskiy,RU
 2500142,RU0ALF,Alexandr,,,RU
 2501001,UB1AAM,Dmitriy,St. Petersburg,Leningrad,RU
@@ -50645,6 +50778,7 @@
 2508091,R8AFO,Igor,Tyumen,Tyumen,RU
 2508092,R8ADN,Sergi,Chelyabinsk,Chelyabinsk,RU
 2508099,UB8CEM,Oleg,Chelyabinsk,Chelyabinsk,RU
+2508101,UB8CMC,Eugene,Chelyabinsk,Chelyabinsk,RU
 2509001,R9XU,Yakov,Syktyvkar,Komi Republic,RU
 2509002,UA9KDF,Igor,Znamensky,Tyumen,RU
 2509003,R9CIR,Ivan,V-Pyshma,Sverdlovsk,RU
@@ -51144,6 +51278,8 @@
 2550380,UT4UGW,Paul,Kiev,Kiev,UA
 2550382,UR5WED,Mykola,Lviv,Lviv,UA
 2550383,UR6LPC,Mikhail,Kharkov,Kharkov,UA
+2550384,UT3UOQ,Gena,Kiev,Kiev,UA
+2550386,UR5KPW,Pavlo,Rivne,Rivne,UA
 2570001,EW7AS,Vladimir,Klimovichi,Mahilyow Voblast,Belarus
 2570002,EW7AS,Vladimir,Klimovichi,Mahilyow Voblast,Belarus
 2570003,EU1ADI,Aliaksei,Minsk,Minsk,Belarus
@@ -51348,7 +51484,8 @@
 2601120,SQ1MNB,Andrzej,Swinoujscie,PLZP,PL
 2601121,SQ6POB,Marek,Nowe Worowo,PLZP,PL
 2601122,SQ3VAS,Sergiusz,Choszczno,PLZP,PL
-2601123,SQ1TAQ,Mariusz,Szczecin,Zachodniopomorskie,PL
+2601123,SQ1TAQ,Mariusz,Szczecin,PLZP,PL
+2601124,SQ1JGF,Zbigniew,Police,PLZP,PL
 2602001,SP2WGN,Maciej,Gdask,PLPM,PL
 2602002,SP2FRN,Sebastian,Gdynia,PLPM,PL
 2602003,SP2CA,Andrzej,Bydgoszcz,PLKP,PL
@@ -51514,6 +51651,7 @@
 2602163,SP2IKQ,Pawel,Gdynia,PLPM,PL
 2602164,SP2DPK,Krzysztof,Gdynia,PLPM,PL
 2602165,SQ2ADV,Marcin,Grabno,PLPM,PL
+2602166,SQ2ICE,Arek,Lowin,PLPM,PL
 2603001,SQ3CLK,Michal,Poznan,PLWP,PL
 2603002,SQ3GJH,Chrystian,Srem,PLWP,PL
 2603003,SP3WBY,Artur,Poznan,PLWP,PL
@@ -51714,6 +51852,7 @@
 2603199,SQ3WRL,Lukasz,Rozdrazew,PLWN,PL
 2603200,SP3VSC,Jacek,Konin,PLWN,PL
 2603201,SP3FTO,Jacek,Czempin,PLWN,PL
+2603202,SP3RAD,Zbigniew,Rawicz,PLWN,PL
 2604001,SQ4HRL,Przemyslaw,Ostroda,PLWN,PL
 2604002,SQ4LWO,Krzysztof,Olsztyn,PLWN,PL
 2604003,SQ4OJA,Adam,Olsztyn,PLWN,PL
@@ -52356,6 +52495,9 @@
 2605486,SQ5IRS,Bartek,Warszawa,PLMZ,PL
 2605487,SQ5SDF,Slawek,Warszawa,PLMZ,PL
 2605488,SQ5KIL,Mariusz,Warszawa,PLMZ,PL
+2605489,SP5OXI,Jerzy,Warszawa,PLMZ,PL
+2605490,SQ5PE,Boleslaw,Warszawa,PLMZ,PL
+2605491,SQ1EIH,Tomasz,Warszawa,PLMZ,PL
 2606001,SQ6ROK,Andrzej,Wroclaw,PLDS,PL
 2606002,SQ6NCJ,Jacek,Olawa,PLDS,PL
 2606003,SQ6IUB,Kamil,Opole,PLOP,PL
@@ -52529,6 +52671,8 @@
 2606171,SP6ZZ,Milosz,Wlochy,PLOP,PL
 2606172,SP6CAL,Jerzy,Glogow,PLDS,PL
 2606173,SP6DLO,Slawomir,Wroclaw,PLDS,PL
+2606174,SP6STZ,Zbigniew,Wroclaw,PLDS,PL
+2606176,SQ6KBZ,Andrzej,Szczodre,PLDS,PL
 2607001,SQ7FKT,Bartek,Lodz,PLLD,PL
 2607002,SQ7SCC,Arkadiusz,Lodz,PLLD,PL
 2607003,SQ7LRX,Adam,Lodz,PLLD,PL
@@ -52757,6 +52901,9 @@
 2607226,SP7VVN,Jarek,Lodz,PLLU,PL
 2607227,SQ7KGH,Karol,Lodz,PLLU,PL
 2607228,SO7AEN,Andrzej,Busko-Zdroj,PLSK,PL
+2607229,SQ7KW,Kamil,Radomsko,PLLU,PL
+2607230,SQ7SQ,Mateusz,Podklucze,PLLU,PL
+2607231,SP7EPJ,Jakub,Pajeczno,PLLU,PL
 2608001,SP8WJS,Andrzej,Ustrzyki Dolne,PLPK,PL
 2608002,SP8PG,Grzegorz,Zamosc,PLLU,PL
 2608003,SQ8LUN,Lukasz,Lublin,PLLU,PL
@@ -52912,6 +53059,7 @@
 2608153,SP8CHI,Ryszard,Swidnik,PLLU,PL
 2608154,SQ8SW,Sylwester,Jaslo,PLPK,PL
 2608155,SP8MDH,Pawel,Lubartow,PLLU,PL
+2608156,SP8UEE,Waldemar,Dukla,PLPK,PL
 2609001,SQ9JTI,Lukasz,Tarnow,PLMA,PL
 2609002,SQ9MUR,Maciek,Tarnow,PLMA,PL
 2609003,SP9ACQ,Adam,Krakov,PLMA,PL
@@ -53405,13 +53553,18 @@
 2609491,SP9DWV,Zygmunt,Cieszyn,PLPD,PL
 2609492,SP9KMS,Konrad,Tarnow,PLMA,PL
 2609493,SP9HYT,Teofil,Tychy,PLPD,PL
+2609494,SQ9LM,Lukasz,Krakow,PLMA,PL
 2609495,SQ9NOU,Krzysztof,Cieszyn,PLSL,PL
 2609496,SP9GUH,Jan,Bielsko-Biala,PLSL,PL
 2609497,SQ9IAQ,Mariusz,Krakow,PLMA,PL
+2609498,SP9OYT,Mariusz,Plesna,PLSL,PL
 2609500,SP9UVG,Gustaw,Katowice,PLSL,PL
 2609501,SP9EA,Andrzej,Jaworzno,PLSL,PL
 2609502,SQ9CXE,Mariusz,Sosnowiec,PLSL,PL
 2609503,SP9AJM,Alojzy,Nowy Sacz,PLMA,PL
+2609504,SP9PW,Pawel,Katowice,PLSL,PL
+2609505,SQ9BOR,Krzysztof,Piekary Slaskie,PLSL,PL
+2609506,SQ9JYM,Bartosz,Muszyna,PLSL,PL
 2620001,DD8OA,Jan,Thale,ST,DE
 2620002,DB1JBA,Jens,Wismar,MV,DE
 2620003,DG0CCO,Joerg,Tangermuende,ST,DE
@@ -53693,6 +53846,7 @@
 2620279,DO4EPH,Enrico,Gnoien,MV,DE
 2620280,DD4RJ,Ronald,Guestrow,MV,DE
 2620281,DM2AA,Ralf,Stralsund,MV,DE
+2620282,DO9RAR,Ralf,Seegebiet Mansfelder Land,ST,DE
 2621001,DL7AJ,Wolfgang,Berlin,BE,DE
 2621002,DG4FEY,Thomas,Berlin,BE,DE
 2621003,DL7ATA,Frank,Berlin,BE,DE
@@ -54226,6 +54380,7 @@
 2621531,DO7JWD,Thomas,Koenigs Wusterhausen,BB,DE
 2621532,DG2BUE,Bernd,Berlin,BE,DE
 2621533,DL7UAW,Andreas,Berlin,BE,DE
+2621534,DL7MKR,Krzysztof,Berlin,BE,DE
 2622000,DF4HN,Joerg,Hamburg,SH,DE
 2622001,DL6LIM,Iven,Twedt,SH,DE
 2622002,DJ3HZ,Klaus,Norderstedt,SH,DE
@@ -54956,6 +55111,7 @@
 2622727,DO1RZ,Roman,Wedel,SH,DE
 2622728,DL4LEX,Alexander,Borgwedel,SH,DE
 2622729,DO1DEV,Atilla,Norderstedt,SH,DE
+2622730,DJ4PZ,Hans,Breiholz,SH,DE
 2623001,DL4BCG,Paul,Jever,NI,DE
 2623002,DG5AV,Gerd,Einbeck,NI,DE
 2623003,DL5HSN,Hendrik,Ihlow,NI,DE
@@ -57711,6 +57867,7 @@
 2625755,DF3VX,Gerd,Rehlingen-Siersburg,SL,DE
 2625756,DL3JOP,Joshua,Ottweiler,SL,DE
 2625757,DD1UM,Manfred,Kaiserslautern,RP,DE
+2625758,DJ9JF,Julian,Saarbruecken,SL,DE
 2625998,DM0NR,Hans-Juergen,Neuwied,RP,DE
 2625999,DB0LJ,Hans-Juergen,Kruft,RP,DE
 2626000,DF6RK,Ralf,Glashuetten,HE,DE
@@ -61135,6 +61292,8 @@
 2629432,DL3DUL,Rainer,Goerlitz,SN,DE
 2629433,DL1DRA,Joachim,Schoenbach,SN,DE
 2629434,DL1DWL,Manfred,Goerlitz,SN,DE
+2629435,DO1EFH,Erik,Frankenberg,SN,DE
+2629436,DO1DSW,David,Markersdorf,SN,DE
 2633001,DG4AK,Dietmar,Hann. Muenden,NI,DE
 2633002,DH8AAA,Oliver,Vechelde,NI,DE
 2633003,DC6BV,Reinhardt,Norden,NI,DE
@@ -61851,6 +62010,10 @@
 2633714,DM6OM,Michael,Meine,NI,DE
 2633715,DL3LAR,Rolf,Braunschweig,NI,DE
 2633716,DO7XK,Sabrina,Wunstorf,NI,DE
+2633717,DF9OM,Carsten,Hannover,NI,DE
+2633718,DG8ACD,Ulrich,Wittingen,NI,DE
+2633719,DO2OCT,Carsten,Braunschweig,NI,DE
+2633720,DO2BSC,Bjoern,Bremen,HB,DE
 2633838,DF2SK,Sven,Cuxhaven,NI,DE
 2633849,DL8XI,Ingo,Hechthausen,NI,DE
 2633999,DB0BHN,NXD-Gateway,NXD-Gateway,HE,DE
@@ -62869,6 +63032,8 @@
 2636030,DO1MOR,Moritz,Heusenstamm,HE,DE
 2636031,DO8MAR,Martin,Hofheim,HE,DE
 2636032,DL9ABH,Thorsten,Oberursel,HE,DE
+2636033,DJ6GK,Michael,Marburg,HE,DE
+2636034,DO3SM,Marcel,Erzhausen,HE,DE
 2637001,DF6MP,Marcus,St.Johann,BW,DE
 2637002,DO2STO,Matthias,Stockach,BW,DE
 2637003,DK7OJ,Klaus,Sauldorf,BW,DE
@@ -63465,6 +63630,8 @@
 2637594,DL7AOS,Dr.Stefan,Gomaringen,BW,DE
 2637595,DC8GH,Herbert,Schopfheim,BW,DE
 2637596,DL5TT,Josef,Leinfelden-Echterdingen,BW,DE
+2637597,DO1JLR,Johann,Salem,BW,DE
+2637598,DK2TY,Edwin,Heilbronn,BW,DE
 2638001,DK1FM,Felix,Neubiberg,Bayern,DE
 2638002,DL0VHS,Friedrich,Schrobenhausen/Sandizell,Bayern,DE
 2638003,DG8NFB,Klaus,Nuernberg,Bayern,DE
@@ -64405,6 +64572,15 @@
 2638938,DL9MDS,Helmut,Oberschleissheim,Bayern,DE
 2638939,DC1MBB,Harald,Muenchen,Bayern,DE
 2638940,DL8NEB,Helmut,Hassfurt,Bayern,DE
+2638941,DL6MFJ,Karl,Kitzingen,Bayern,DE
+2638942,DO2MSM,Michael,Muenchen,Bayern,DE
+2638943,DL9MCE,Hubert,Parsdorf,Bayern,DE
+2638944,DC1MUC,Ulrich,Trostberg,Bayern,DE
+2638945,DK1BOB,Robert,Muenchen,Bayern,DE
+2638946,DL1MGH,Alexander,Augsburg,Bayern,DE
+2638947,DL3MP,Martin,Hindelang,Bayern,DE
+2638948,DO6VPR,Volker,Hebertshausen,Bayern,DE
+2638949,DJ0VF,Rajendra,Lohr,Bayern,DE
 2644001,DF4JG,Ulrich,Mettmann,NW,DE
 2644002,DO8JKR,Joerg,Wipperfuerth,NW,DE
 2644003,DO5YS,Achim,Koeln,NW,DE
@@ -65213,6 +65389,15 @@
 2644806,DK3NB,Klaus,Gelsenkirchen,NW,DE
 2644807,DO1KPR,Klaus,Nachrodt,NW,DE
 2644808,DO6VN,Volker,Wetter,NW,DE
+2644809,DO1YSB,Stefan,Herford,NW,DE
+2644810,DG8YFP,Heiner,Castrop-Rauxel,NW,DE
+2644811,DO5SL,Torsten,Schwerte,NW,DE
+2644812,DG9JW,Julian,Koeln,NW,DE
+2644813,DL8SU,Susanne,Linnich,NW,DE
+2644814,DG4DCO,Karsten,Witten,NW,DE
+2644815,DL2JMK,Martin,Geldern,NW,DE
+2644816,DO7MAS,Mario,Siegen,NW,DE
+2644817,DB6EQ,Wolfgang,Krefeld,NW,DE
 2660001,ZB2TT,Robert,Rosia Parade,Gibraltar,Gibraltar
 2660002,ZB2GI,Kevin,Gibraltar,Gibraltar,Gibraltar
 2660003,ZB2ER,Edward,Gibraltar,Gibraltar,Gibraltar
@@ -65383,6 +65568,7 @@
 2681164,CT1BXX,Pereira,Mozelos,Porto,PT
 2681165,CT1EUK,Freitas,Guimarues,Braga,PT
 2681166,CS7ARV,Luis,Vila Nova De Gaia,Porto,PT
+2681167,CR7AWG,Nuno,Valongo,Porto,PT
 2682001,CT7ACF,Nuno,Nesprido,Viseu,PT
 2682002,CT1BAT,Jose,Coimbra,Coimbra,PT
 2682003,CT2JWV,Carlos,Estarreja,Aveiro,PT
@@ -65602,6 +65788,7 @@
 2682217,CR7AVY,Carlos,Pombal,Leiria,PT
 2682218,CT2ILN,Telmo,Caldas Da Rainha,Leiria,PT
 2682219,CT1FOP,Albino,Coja/Arganil,Coimbra,PT
+2682220,CT2JBT,Fernando,Agueda,Aveiro,PT
 2683001,CT1HDC,Paulo,Lisboa,Lisboa,PT
 2683002,CT4GV,Luis,Algueirao-Mem Martins,Lisboa,PT
 2683003,CS7AFO,Hugo,Amadora,Lisboa,PT
@@ -66023,6 +66210,7 @@
 2684059,CT2HFD,Jose,Alcanena,Santarem,PT
 2684060,CT2JFJ,Antonio,Chamusca,Santarem,PT
 2684061,CT2JAW,Sergio,Portalegre,Portalegre,PT
+2684062,CT1EYQ,Joao,Vila Nova de Santo Andre,Setubal,PT
 2685001,CT1EXR,Jorge,Lagos,Faro,PT
 2685002,CT1FGR,Fernando,Lagos,Faro,PT
 2685003,CT2IHP,Rui,Faro,Faro,PT
@@ -66132,6 +66320,7 @@
 2686058,CU0AKA,Angelica,Not released,Azores,PT
 2686059,CU3ABS,Carlos,Praia da Vitoria,Azores,PT
 2686060,CU7AAC,Franciscorosa,Horta,Azores,PT
+2686061,CU7ABF,Vitor,Horta,Azores,PT
 2687001,CT3PE,Jorge,Canico,Madeira,PT
 2687002,CT3FG,Tomas,Funchal,Madeira,PT
 2687003,CT3KP,Jose,Funchal,Madeira,PT
@@ -66486,6 +66675,7 @@
 2720179,EI3IUB,Sam,Waterford,Waterford,IE
 2720180,EI4CKB,Mike,Leinster,Wexford,IE
 2720182,EI4HCB,Tom,Roscommon,Roscommon,IE
+2720183,EI8GD,Jim,Carlow,Carlow,IE
 2740001,TF3PKN,Pier,Reykjavik,Reykjavik,Iceland
 2740002,TF8KP,Krzysztof,Keflavik,,Iceland
 2740003,TF8KP,Krzysztof,Keflavik,,Iceland
@@ -66947,6 +67137,8 @@
 2840338,LZ1GSP,George,Sofia,Sofia,BG
 2840339,LZ1PMG,Paco,Sofia,Sofia,BG
 2840340,LZ1DRA,Dragomir,Sofia,Sofia,BG
+2840341,LZ1NPC,Nikolai,Gabrovo,Gabrovo,BG
+2840342,LZ1QZ,Kolyo,Burgas,Burgas,BG
 2860001,TA6TC,Mirac,Istanbul,Marmara region,TR
 2860002,TA5ACC,Cihan,Adana,Adana,TR
 2860003,TA2UKC,Cem,Istanbul,Marmara region,TR
@@ -68491,6 +68683,43 @@
 2861543,TA7MMT,Blacksea,Erzincan,Erzincan,TR
 2861544,TA4I,Durrali,Antalya,Antalya,TR
 2861545,TA3AJC,Ahmet,Balikesir,Balikesir,TR
+2861546,TB1FRL,Omer,Istanbul,Istanbul,TR
+2861547,TA2UAS,TA2UAS,Sakarya,Sakarya,TR
+2861548,TA1MA,Mikael,Istanbul,Istanbul,TR
+2861549,TB2GRY,Adem,Istanbul,Istanbul,TR
+2861550,TB2HRK,Hakan,Istanbul,Istanbul,TR
+2861551,TA1SAE,Emre,Istanbul,Istanbul,TR
+2861552,TA1SRA,Ralbayrak,Istanbul,Istanbul,TR
+2861553,TA2IJN,Cengiz,Ankara,Ankara,TR
+2861554,TB4TAO,Osman,Aydin,Aydin,TR
+2861555,TA1ADO,Onder,Istanbul,Istanbul,TR
+2861556,TA3EME,Emre,Balikesir,Balikesir,TR
+2861557,TA3KCH,HSCL,Balikesir,Balikesir,TR
+2861558,TA8LKS,Sinan,Diyarbakir,Diyarbakir,TR
+2861559,TA2ESH,Kamil,Ankara,Ankara,TR
+2861560,TA6ASG,Sinan,Amasya,Amasya,TR
+2861561,TA5MHN,Mehmethan,Trabzon,Trabzon,TR
+2861562,TB5HMK,Itfaye,Konya,Konya,TR
+2861563,TB1HLI,Kemal,Edime,Istanbul,TR
+2861564,TA2KEN,Eda,Kadikoy,Istanbul,TR
+2861565,TB2GFL,Eren,Special Station,Ankara,TR
+2861566,TA4AKE,Kadir,Aydin,Aydin,TR
+2861567,TA8ALX,Huseyin,Adiyaman,Adiyaman,TR
+2861568,TB2GHZ,TB2GHZ,Special Station,Ankara,TR
+2861569,TA7KUI,Ugur,Erzincan,Erzincan,TR
+2861570,TA3OVA,Vahap,Balikesir,Balikesir,TR
+2861571,TA2UND,Erayu,Ankara,Ankara,TR
+2861572,TA1AAJ,Akerimoglu,Istanbul,Istanbul,TR
+2861573,TB1BOG,TB1BOG,Istanbul,Istanbul,TR
+2861574,TA4BZ,Metin,Nazilli Aydin,Aydin,TR
+2861575,TB1DUY,Erkek,Istanbul,Istanbul,TR
+2861576,TB9BD,Ihsan,Rize,Rize,TR
+2861577,TA9Q,Hasan,Merkez,Rize,TR
+2861578,TA3ILU,Ule,Izmir,Izmir,TR
+2861579,TA5AVC,Vildan,Adana,Adana,TR
+2861581,TB1TRH,Basri,Istanbul,Istanbul,TR
+2861582,TB5GNN,TB5GNN,Adana,Adana,TR
+2861583,TA2KML,Kemsa,Ankara,Ankara,TR
 2862001,TA2OI,Nejmettin,Sulakyurt,Kirikkale,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
@@ -68972,6 +69201,10 @@
 2930453,S56T,Matej,Gornji Grad,Savinjska,SI
 2930454,S50PR,Roman,Smartno pri Slovenj Gradcu,Koroska,SI
 2930455,S56GTK,Slavko,Sredisce Ob Dravi,Podravska,SI
+2930456,S56IZB,Bojan,Bohinjska Bistrica,Gorenjska,SI
+2930457,S50E,Rc,Cerkno,Primorska,SI
+2930458,S57UBA,Janez,Velenje,Savinjska,SI
+2930459,S52JG,Janko,Velenje,Savinjska,SI
 2940001,Z36AEC,Herolind,Gostivar,Polog,MK
 2940002,Z32IT,Dragan,Skopje,Skopje RegionSkopje,MK
 2940003,Z32IT,Dragan,Skopje,Skopje,MK
@@ -70561,6 +70794,25 @@
 3021512,VA3JNO,Jonathon,Northern Bruce Peninsula,NL,CA
 3021513,VA3BOF,John,N. York,ON,CA
 3021514,VA3GGT,Scott,Cambridge,ON,CA
+3021515,VE7VJM,Morgan,Langley,BC,CA
+3021516,VE7SVC,Clyde,Abbotsford,BC,CA
+3021517,VO1JV,Joseph,Lamaline,NL,CA
+3021518,VA3AZY,Aarron,Windsor,ON,CA
+3021519,VA6TPB,Mark,Calgary,AB,CA
+3021520,VA3YLB,Rene,Thornhill,ON,CA
+3021521,VE3XMK,Marek,Toronto,ON,CA
+3021522,VE2ICU,Paolo,Montreal,QC,CA
+3021523,VE9VW,Paul,Dieppe,NB,CA
+3021524,VE9VW,Paul,Dieppe,NB,CA
+3021525,VE3MNC,Norman,London,ON,CA
+3021526,VA2DCY,Chartrand,St Colomban,QC,CA
+3021527,VE3XKV,Robert,Dundas,ON,CA
+3021528,VA2SIJ,Mario,Notre Dame Des Prairies,QC,CA
+3021529,VE1WD,Matthew,N. River,NS,CA
+3021530,VE2AGS,Joseph,Saint Leonard D Aston,QC,CA
+3021531,VA3WLD,John,N. York,ON,CA
+3021532,VE7BBD,Stephen,Surrey,BC,CA
+3021533,VE6VH,Martin,Calgary,AB,CA
 3021912,VE7LLW,Les,Port Moody,BC,CA
 3021913,VA3UV,Ramesh,Mississauga,ON,CA
 3021914,VA2AYA,Anthony,Blainville,QC,CA
@@ -99746,255 +99998,3 @@
 3127551,W1ITA,Giampaolo,Plymouth,MN,US
 3127552,KE0OVG,Dj,Prior Lake,MN,US
 3127553,W0HY,Jeff,Saint Paul,MN,US
-3127554,AD0HJ,Mitchell,Breezy Point,MN,US
-3127555,N0ZCO,Daniel,Oakdale,MN,US
-3127556,KA0PQW,Matthew,Ellendale,MN,US
-3127557,KB0NJ,Robert,Round Lake,MN,US
-3127558,KE0PIO,Aidan,Saint Paul,MN,US
-3127559,N0ACP,Terry,Grand Marais,MN,US
-3127560,KE0PFL,Sebastian,Saint Paul,MN,US
-3127561,KC0YIQ,Jonathan,St Paul,MN,US
-3127562,N5LB,Lionel,Wyoming,MN,US
-3127563,W0VNE,James,Prior Lake,MN,US
-3127564,KE0EEG,Michael,Bemidji,MN,US
-3127565,WE1NA,Stephen,Minneapolis,MN,US
-3127566,KB0TJW,Joseph,Cottage Grove,MN,US
-3127567,WD9GNJ,Bradley,Forest Lake,MN,US
-3127568,WD9GNJ,Bradley,Forest Lake,MN,US
-3127569,KD0LVH,Matthew,Columbia Heights,MN,US
-3127570,K0EAP,Eric,Lakeville,MN,US
-3127573,KC0VSN,Tobias,Foley,MN,US
-3127574,N0RKR,Jim,Prior Lake,MN,US
-3127575,WD0BOI,Stephen,Elk River,MN,US
-3127576,W0TRJ,Terry,Aitkin,MN,US
-3127577,K0JFF,Jeffrey,Bloomington,MN,US
-3127578,KE0PSO,Mark,Las Vegas,NV,US
-3127579,WN4GMT,James,White Bear Lake,MN,US
-3127580,N9MEC,Steven,Lakeville,MN,US
-3127581,W0ENG,David,Roseville,MN,US
-3127582,WQ0A,Michael,Saint Peter,MN,US
-3127583,N0CCW,Brian,Minneapolis,MN,US
-3127584,KC0W,Thomas,Minnetonka,MN,US
-3127585,N0NFB,Kevin,Circle Pines,MN,US
-3127586,KD0OJE,Robb,Bloomington,MN,US
-3127587,KC0RAF,Mark,Bloomington,MN,US
-3127588,KC0VNL,Monica,Eden Prairie,MN,US
-3127589,KC0IJA,Scott,Saint Paul,MN,US
-3127590,KE0OGD,Jay,Sartell,MN,US
-3127591,KE0EOK,Jordan,Apple Valley,MN,US
-3127592,KE0PYP,Anthony,Albany,MN,US
-3127593,KB9ZI,Edward,Prior Lake,MN,US
-3127594,KE0MGN,Enik,Sartell,MN,US
-3127595,KE0NWT,Adam,Rosemount,MN,US
-3127596,N0SBW,Gregory,Lakeville,MN,US
-3127597,KA1AAM,Lynne,Minneapolis,MN,US
-3127598,KX3EMT,Stephen,Crystal,MN,US
-3127599,KD0DFG,Thomas,Eagan,MN,US
-3127600,KE0RCA,Christine,Minneapolis,MN,US
-3127601,N0TYE,Paul,New Brighton,MN,US
-3127602,KE0IDO,Douglas,Lakeville,MN,US
-3127603,N0YEO,Daniel,Brooklyn Park,MN,US
-3127604,KY0GBZ,Barry,Owatonna,MN,US
-3127605,KC0TJ,Don,Richfield,MN,US
-3127606,KE0MGN,Enik,Sartell,MN,US
-3127607,KE0ABR,Nicholas,Saint Francis,MN,US
-3127608,W0LED,Clayton,Crystal,MN,US
-3127609,KD0JTJ,Joshua,Saint Paul,MN,US
-3127610,KD0FLT,Koreen,Falcon Heights,MN,US
-3127611,KB0R,Larry,Hastings,MN,US
-3127612,KE0TWZ,Alan,Rosemount,MN,US
-3127613,NY9D,Erik,Saint Paul,MN,US
-3127614,AA0P,Steve,Burnsville,MN,US
-3127615,N0AGO,Wayne,Ivanhoe,MN,US
-3127616,KD0DDS,Aaron,Monticello,MN,US
-3127617,KD0DDS,Aaron,Monticello,MN,US
-3127618,NR0L,Neill,Maple Grove,MN,US
-3127619,AD0IV,Kevin,Farmington,MN,US
-3127620,KE0QKY,Justin,New Ulm,MN,US
-3127621,KF7PLN,Kevin,Eagle,ID,US
-3127622,KC0VTW,Theodore,Motley,MN,US
-3127623,KE0KPV,Joseph,Saint Paul,MN,US
-3127624,KD0SFH,Timothy,Minneapolis,MN,US
-3127625,KD0WTB,Jason,Chaska,MN,US
-3127626,N0GYT,Riley,Saint Paul,MN,US
-3127627,KB0BRO,Patrick,Warroad,MN,US
-3127628,KE0QWW,Robert,Owatonna,MN,US
-3127629,K0MWB,Matthew,Wawina,MN,US
-3127630,K0WFS,Russell,Otsego,MN,US
-3127631,KE0AZY,Peter,Apple Valley,MN,US
-3127632,W0DTN,John,Mentor,MN,US
-3127633,KE0QZQ,Danny,Montrose,MN,US
-3127634,W5LNA,Kevin,Saint Paul,MN,US
-3127635,KB0YHH,James,Farmington,MN,US
-3127636,K0AIF,David,Lake Elmo,MN,US
-3127637,K0AIF,David,Lake Elmo,MN,US
-3127638,KA0UWK,Jeffrey,Floodwood,MN,US
-3127639,W6GFN,Barry,Plymouth,MN,US
-3127640,AI0Z,Mark,Morristown,MN,US
-3127641,K0WPD,Timothy,Clara City,MN,US
-3127642,KC0EIG,Shanon,Anoka,MN,US
-3127643,KC0EIG,Shanon,Anoka,MN,US
-3127644,K0LMC,Ronald,E. Grand Forks,MN,US
-3127645,K0GOI,Magic,Saint Paul,MN,US
-3127647,N0AWA,Alfred,Badger,MN,US
-3127648,KD0WBK,Bob,Minneapolis,MN,US
-3127649,KD0WBK,Bob,Minneapolis,MN,US
-3127650,W0EHZ,Adam,Edina,MN,US
-3127651,N0MHO,Arthur,Roseau,MN,US
-3127652,KC0YHS,Nicholas,St Cloud,MN,US
-3127653,KD0ZBX,John,Rochester,MN,US
-3127654,W0LED,Clayton,Crystal,MN,US
-3127655,N0ECK,Cory,Russell,MN,US
-3127656,KE0RHQ,Zach,Edina,MN,US
-3127657,K0BHJ,Benton,Maple Grove,MN,US
-3127658,K0LTC,Maple,Maple Grove,MN,US
-3127659,N0MQL,Kelvin,Centerville,MN,US
-3127661,KE0GZT,Michael,Minneapolis,MN,US
-3127662,KE0RMR,Jennifer,Owatonna,MN,US
-3127664,KE0RMR,Jennifer,Owatonna,MN,US
-3127666,KD9MFM,Jacob,Milwaukee,WI,US
-3127667,WB0GAG,Bruce,Muscatine,IA,US
-3127668,KK4KMO,Julio,Miami,FL,US
-3127669,KC1JQX,Rachel,Waldoboro,ME,US
-3127670,KI5BCC,William,Austin,TX,US
-3127671,N5THS,J,Nashville,AR,US
-3127672,KG7CME,Elaine,Seattle,WA,US
-3127673,WB1GNL,Alexander,Chestertown,MD,US
-3127674,KE6DBA,Glenn,Yucca Valley,CA,US
-3127675,KE5CDE,Kevin,Belton,TX,US
-3127676,K3FRG,Richard,Bealeton,VA,US
-3127677,KN4KEO,Andrew,Pinellas Park,FL,US
-3127678,K7TST,Brian,Tenino,WA,US
-3127679,WY3K,William,Tamaqua,PA,US
-3127680,K5DWA,Douglas,Livingston,TX,US
-3127681,N5ODX,William,Temple,TX,US
-3127682,KM6IQB,Nicholas,Minneapolis,MN,US
-3127683,KF7UNF,Frederick,Central Point,OR,US
-3127684,K3FRG,Richard,Bealeton,VA,US
-3127685,WY3K,William,Tamaqua,PA,US
-3127686,WD4DCW,Dwight,W. Columbia,SC,US
-3127687,AG5RR,Christopher,Spring,TX,US
-3127688,KD9IRS,Trenton,Oak Creek,WI,US
-3127689,N4HUF,David,Mt Juliet,TN,US
-3127690,W2RWL,Robert,Syracuse,NY,US
-3127691,N8DWB,David,Sandyville,WV,US
-3127692,W1ONE,Glenn,Searsmont,ME,US
-3127693,KA3ZSM,Matthew,Elkridge,MD,US
-3127694,KI5CQX,Gregory,Friendswood,TX,US
-3127695,KJ4GUY,Michael,Decatur,GA,US
-3127696,K4GN,Charles,Lexington,NC,US
-3127697,KD2BNT,David,Central Islip,NY,US
-3127698,W4RLC,Rhonda,Belle Haven,VA,US
-3127699,WA1LTD,Ron,Gorham,ME,US
-3127700,WA1LTD,Ron,Gorham,ME,US
-3127701,KJ7XJ,Eric,Tumwater,WA,US
-3127702,W9KL,Leighton,Ogdensburg,WI,US
-3127703,KN4MBB,Chris,Crab Orchard,KY,US
-3127704,KN4DLS,Craig,Gainsville,GA,US
-3127705,KI7IIM,Paul,Tucson,AZ,US
-3127706,W8CDG,John,Westland,MI,US
-3127707,KG5JHQ,Whitney,Jeanerette,LA,US
-3127708,WJ3R,Robert,Parrish,FL,US
-3127709,KD0JEC,James,Pelican Rapids,MN,US
-3127710,KC2RLZ,Bradley,Ulster Park,NY,US
-3127711,KN4IKQ,Matthew,Memphis,TN,US
-3127712,N2MGU,James,Syracuse,NY,US
-3127713,KD2GM,Bryan,Ulster Park,NY,US
-3127714,KI5JYD,Kevin,White Settlement,TX,US
-3127715,W9WCA,Wood,Wisconsin Rapids,WI,US
-3127716,KD4GFY,Joseph,Port Orange,FL,US
-3127717,KI7UFW,Tyler,Layton,UT,US
-3127718,N1MXH,Alan,Taunton,MA,US
-3127719,KC8CKL,Jason,Narrows,VA,US
-3127720,KC8CKL,Jason,Narrows,VA,US
-3127721,KK6D,Doug,Riverside,CA,US
-3127722,KF6IOS,Wai,Fremont,CA,US
-3127723,W0WT,Warren,Jamestown,ND,US
-3127724,KB8UIP,Brian,Chula Vista,CA,US
-3127725,KC3MDQ,Jeremy,Penn,PA,US
-3127726,K0IL,Eddie,Elkhorn,NE,US
-3127727,W0MKE,Michael,Sauk Centre,MN,US
-3127728,KC9DK,Dan,Evansville,IN,US
-3127729,KB9REV,Lawrence,Orland Park,IL,US
-3127730,KM6SJV,Robert,Hemet,CA,US
-3127731,K0VAB,Vic,Wichita,KS,US
-3127732,W3BTX,Robert,Altoona,PA,US
-3127733,KC3HOJ,Michael,Allentown,PA,US
-3127734,KF8IJZ,Brittany,Cincinnati,OH,US
-3127735,N2BOZ,Joe,Wayne,NJ,US
-3127736,WJ2E,Jon,Schenectady,NY,US
-3127737,N1SDP,Scott,Beaverton,OR,US
-3127738,N2JRS,Vincent,Buffalo,NY,US
-3127739,AJ6GE,Ken,Sacramento,CA,US
-3127740,N8FRJ,Douglas,Willoughby,OH,US
-3127741,W5JXT,Nathan,Roswell,NM,US
-3127742,WR2I,Marc,Nyack,NY,US
-3127743,KC9ZTK,Matthew,Eau Claire,WI,US
-3127744,KM6TVV,Erez,Folsom,CA,US
-3127745,W0LRF,Lawrence,Frederick,CO,US
-3127746,W7RSO,John,Riverside,CA,US
-3127747,K1FC,Frederick,Stamford,CT,US
-3127748,KB9WYG,Gregory,Lanesville,IN,US
-3127749,KI7HDK,Christopher,Henderson,NV,US
-3127750,KD9SK,Shawn,Alton,IL,US
-3127751,W4TXZ,Kenneth,Henrico,VA,US
-3127752,KC9ZJB,Jeff,Jay,FL,US
-3127753,KC1JOC,Dennis,Hamden,CT,US
-3127754,K5WBA,Wade,Sherwood,AR,US
-3127755,WC8VOA,Thomas,W. Chester,OH,US
-3127756,KE9PE,Dominador,Chicago,IL,US
-3127757,K3NJI,Chad,Draper,UT,US
-3127758,KD9LKS,Brandon,Nekoosa,WI,US
-3127759,KC4VSL,Michael,Bunker Hill,WV,US
-3127760,W4LAN,Mitch,Brightwood,VA,US
-3127761,KB1TKC,Christian,Waltham,MA,US
-3127762,KB3RLC,Richard,White Hall,MD,US
-3127763,KM6SSK,Scott,S. Lake Tahoe,CA,US
-3127764,KC1SJ,Steve,Bedford,MA,US
-3127765,KK6IWJ,Jerid,Bakersfield,CA,US
-3127766,KC3IRF,Robert,Pittsburgh,PA,US
-3127767,KE8AGW,Jefferson,Ypsilanti,MI,US
-3127768,AE5PM,David,Winchester,VA,US
-3127769,KC2WLX,Joe,Springville,NY,US
-3127770,KC1RX,Donald,Oviedo,FL,US
-3127771,K3CPK,Corey,Pasadena,MD,US
-3127772,K5RLN,Robert,Plano,TX,US
-3127773,KA0WGN,Scott,Arvada,CO,US
-3127774,KI5CQU,Zachary,Freeport,TX,US
-3127775,KC3JUN,John,Hollidaysburg,PA,US
-3127776,KE5DOO,Robert,Stamford,TX,US
-3127777,KD7DK,Doug,Seattle,WA,US
-3127778,W9MJW,Stuart,Covington,IN,US
-3127779,KA0WGN,Scott,Arvada,CO,US
-3127780,KB8FGC,Craig,Amelia,OH,US
-3127781,KT0MED,Eric,Jasper,MN,US
-3127782,KJ7CMR,Ian,Chandler,AZ,US
-3127783,N3NDS,Todd,Waterford,PA,US
-3127784,KE0TZZ,Jesse,Mapleton,KS,US
-3127785,KC9HMW,Andrew,Connersville,IN,US
-3127786,KI5AEM,Dempsey,Coalgate,OK,US
-3127787,KB3ZQD,Jelly,Columbia,MD,US
-3127788,KE8LEA,Alex,Springfield,OH,US
-3127789,K5SAW,Steve,Bella Vista,AR,US
-3127790,KL7CA,Leonard,Eagle River,AK,US
-3127791,W2TXB,Jerome,Groton,NY,US
-3127792,KD9MFW,David,Hudson,WI,US
-3127793,KC1ITB,Benjamin,Newark,VT,US
-3127794,KD9MFW,David,Hudson,WI,US
-3127795,KJ7CMR,Ian,Chandler,AZ,US
-3127796,KB3GDW,Justin,Lancaster,PA,US
-3127797,K6WRP,Warren,Forestville,CA,US
-3127798,W8BRV,Reynolds,Eagle,MI,US
-3127799,KM6MMM,Donald,Big Bear Lake,CA,US
-3127800,N6CID,Frank,Alamogordo,NM,US
-3127801,KB6NOS,Nicholas,Redding,CA,US
-3127802,N1MHV,Bob,Cumming,GA,US
-3127803,KG4AAX,Carrie,Trabuco Canyon,CA,US
-3127804,W6HMN,Cornell,Santa Rosa,CA,US
-3127805,KC2UWW,Jason,Middletown,NY,US
-3127806,KF4QVF,Andrew,Maryville,TN,US
-3127807,N4LSM,Michael,Dublin,VA,US
-3127808,KE0SGS,William,Festus,MO,US
-3127809,K9KAO,Henry,Covina,CA,US
-3127810,KC1KTH,Nivek,China,ME,US
-3127811,W8BRV,Reynolds,Eagle,MI,US
