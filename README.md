@@ -4,7 +4,7 @@
 <a href="https://www.communicationworld.nl" target="_blank"><img src="img/BM-comworld.jpg" width="360"></a>
 </p>
 <hr>
-<h1>The DMR user database has 158498 entries.
+<h1>The DMR user database has 159184 entries.
 </h1>
 <hr>
 <h2><b>Latest News: DMR user database BETA
