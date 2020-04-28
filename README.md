@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://github.com/BM-Database" target="_blank"><img src="img/BM-logo2.gif" width="360"></a>
 <br>
-<img src="img/logo-dmr-database.jpeg" width="360"></a>
+<img src="img/logo-dmr-database.jpg" width="360"></a>
 </p>
 <hr>
 <h1>The DMR user database has 161317 entries.
