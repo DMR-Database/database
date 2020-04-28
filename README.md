@@ -1,6 +1,4 @@
 <p align="center">
-<a href="https://github.com/BM-Database" target="_blank"><img src="img/BM-logo2.gif" width="360"></a>
-<br>
 <img src="img/logo-dmr-database.jpg" width="360"></a>
 </p>
 <hr>
