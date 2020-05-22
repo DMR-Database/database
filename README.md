@@ -2,7 +2,7 @@
 <img src="img/logo-dmr-database.jpg" width="360"></a>
 </p>
 <hr>
-<h1>The DMR user database has 163266 entries.
+<h1>The DMR user database has 164220 entries.
 </h1>
 <hr>
 <h2><b>Latest News: DMR user database BETA
