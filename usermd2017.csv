@@ -11510,6 +11510,22 @@
 2040244,PH1DLB,Gerardo,Wormer,N-H,NL
 2040245,PC2W,Koen,Hardenberg,OV,NL
 2040246,PE1AVG,Jan,Sneek,FRL,NL
+2040247,PA1GN,Glenn,Veenendaal,UTR,NL
+2040248,PA3GWS,Albert,Delft,ZH,NL
+2040249,PD5RAY,Raymund,Arnhem,GLD,NL
+2040250,PD7SDB,Stef,Arnhem,GLD,NL
+2040251,PA3KUS,Driekus,Rotterdam,ZH,NL
+2040252,PA7MK,Mieke,Zwolle,OV,NL
+2040253,PD4ET,Erwin,Ter Aar,ZH,NL
+2040254,PD7TTL,Mark,Sint Oedenrode,N-BR,NL
+2040255,PE0E,Edward,Vlotho,NW-DE,NL
+2040256,PA5MS,John,Heeswijk,N-BR,NL
+2040257,PE1NSL,Chis,Amsterdam,N-H,NL
+2040258,PA0GKE,Geert,Purmerend,N-H,NL
+2040259,PA0PRA,Pierre,Rosmalen,N-BR,NL
+2040260,PD2GJS,Bert,Spijkenise,ZH,NL
+2040261,PD0OYT,Auke,Franeker,FRL,NL
+2040262,PA3FNN,Daan,Dongen,N-BR,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -46025,7 +46041,7 @@
 2347298,M0SDF,Paul,Nr Newark,England,UK
 2347299,2E0LIU,Iain,Burnley,England,UK
 2347300,G3KRZ,John,Bracebridge Heath Lincoln,England,UK
-2347301,M7BMF,Barry,N.Yorkshire,England,UK
+2347301,2E0RMF,Barry,N.Yorkshire,England,UK
 2347302,M0IYE,AndyGibbons,Lincoln,England,UK
 2347303,G1AHW,Trev,Stockton-On-Tees,England,UK
 2347304,M7ONY,Spencer,E.Yorkshire,England,UK
@@ -80068,10 +80084,10 @@
 2862036,TA4MSA,Semih,Aydin,Aydin,TR
 2862037,TA1KR,Atilla,Istanbul,Istanbul,TR
 2862038,TB2TJA,Burak,Sakarya,Sakarya,TR
-2862039,TA2KCD,Cihat,Pendik İstanbul,İstanbul,TR
+2862039,TA2KCD,Cihat,Pendik Istanbul,Istanbul,TR
 2862040,TB3DJS,Serkan,Manisa,Manisa,TR
-2862041,TA2AIQ,Hikmet,34758 Atasehir Istanbul,İstanbul,TR
-2862042,TB1TAL,Clalesahin,Istanbul,İstanbul,TR
+2862041,TA2AIQ,Hikmet,Atasehir,Istanbul,TR
+2862042,TB1TAL,Clalesahin,Istanbul,Istanbul,TR
 2862043,TB2FCT,Cagatay,Ankara,Ankara,TR
 2862044,TA5IBH,TA5IBH,Adana,Adana,TR
 2862045,TA4ISG,Gurcan,Isparta,Isparta,TR
@@ -80272,7 +80288,7 @@
 2862240,TA8IUU,Ugur,Adyaman,Adyaman,TR
 2862241,TB4PSY,Yilmaz,Antalya,Antalya,TR
 2862242,TA5RSK,Sabit,Mersin,Mersin,TR
-2862243,TA1KHO,Hasan,İstanbul,İstanbul,TR
+2862243,TA1KHO,Hasan,Istanbul,Istanbul,TR
 2862244,TA4ADP,Hakan,Usak,Usak,TR
 2862245,TA2AQF,Ibrahim,Kirikkale,Kirikkale,TR
 2862246,TA1AFZ,Canpolat,Istanbul,Istanbul,TR
@@ -80348,11 +80364,11 @@
 2862316,TA6IBT,Burak,Corum,Corum,TR
 2862317,TA6KHU,Hasan,Samsun,Samsun,TR
 2862318,TA7LDU,Ufuk,Hasret Sk,Trabzon,TR
-2862319,TA2ADD,-Dursun,Turkiye Zonguldak,,TR
-2862320,TA3LKU,Kaan,Canakkale,,TR
-2862321,TA8LMT,Halit,Gazantep,,TR
-2862322,TB2AJ,Gunay,Ankara,,TR
-2862323,TA8AT,Onur,İskenderun/ Hatay,,TR
+2862319,TA2ADD,-Dursun,Turkiye Zonguldak,Zonguldak,TR
+2862320,TA3LKU,Kaan,Canakkale,Canakkale,TR
+2862321,TA8LMT,Halit,Gazantep,Gazantep,TR
+2862322,TB2AJ,Gunay,Ankara,Ankara,TR
+2862323,TA8AT,Onur,Iskenderun,Hatay,TR
 2862324,TA2ESS,Sstercan,Sakarya,Hendek,TR
 2862325,TA1SYA,Ahmet,Stanbul,Stanbul,TR
 2862326,TA1RMU,Mucahit,Istanbul,Istanbul,TR
@@ -80525,7 +80541,7 @@
 2862493,TA1OLZ,Firat,Corlu,Tekirdad,TR
 2862494,TB7BAO,Omer,Trabzon,Trabozon,TR
 2862495,TA2BEO,Cumhur,Pendik,Istanbul,TR
-2862496,TA1APX,Ahmet,İstanbul,Istanbul,TR
+2862496,TA1APX,Ahmet,Istanbul,Istanbul,TR
 2862497,TA6KHE,Hakan,Samsun,Samsun,TR
 2862498,TA8AVU,Volkan,Gaziantep,Gaziantep,TR
 2862499,TA2BEF,Engin,Istanbul,Istanbul,TR
@@ -80614,7 +80630,7 @@
 2862582,TA4NCO,Can,Kutahya,Eskisehir,TR
 2862583,TA5IHU,Hasan,Aksaray,Ankara,TR
 2862584,TA6C,Zafer,Samsun,Samsun,TR
-2862585,TB5BBL,Bulent,Ereğli,Konya,TR
+2862585,TB5BBL,Bulent,Eregli,Konya,TR
 2862586,TB6BYD,Yusuf,Samsun,Samsun,TR
 2862587,TB1ABC,Murat,Bakirkoy,Istanbul,TR
 2862588,TA7ALY,Ali,Ordu,Ordu,TR
@@ -80691,7 +80707,7 @@
 2862659,TA1ARF,Ramazan,Istanbul,Istanbul,TR
 2862660,TB2BII,Ismet,Ankara,Ankara,TR
 2862661,TB3RE,Recep,Mustafakemalpasa,Bursa,TR
-2862662,TA4RUY,Uğur,Alanya,Antalya,TR
+2862662,TA4RUY,Ugur,Alanya,Antalya,TR
 2862663,TA3ORK,Zeki,Tire,Izmir,TR
 2862664,TA1ONU,Onur,Istanbul,Istanbul,TR
 2862665,TB3TAR,Resul,Bornova,Izmir,TR
@@ -80739,7 +80755,7 @@
 2862707,TA5IZM,Ekrem,Hatay,Hatay,TR
 2862708,TA5OSK,Safa,Iskenderun,Hatay,TR
 2862709,TB5PIG,Ismet,Kilis,Gaziantep,TR
-2862710,TB5DYK,Yılmaz,Antakya,Hatay,TR
+2862710,TB5DYK,Yilmaz,Antakya,Hatay,TR
 2862711,TA3BL,Serafettin,Izmir,Izmir,TR
 2862712,TA2BBL,Serkan,Ankara,Ankara,TR
 2862713,TA5SAY,Ahmet,Seyhan,Adana,TR
@@ -80755,7 +80771,7 @@
 2862723,TA3AQL,Onur,Izmir,Izmir,TR
 2862724,TA3AQP,Müjdat,Bursa,Bursa,TR
 2862725,TA1AWO,Beytullah,Istanbul,Istanbul,TR
-2862726,TA5AJC,İbrahim,Mersin,Mersin,TR
+2862726,TA5AJC,Ibrahim,Mersin,Mersin,TR
 2862727,TA4ANZ,Ali,Denzli,Denzli,TR
 2862728,TA6ADC,Onur,Samsun,Samsun,TR
 2862729,TB7AAL,Umut,Melikgazi,Kayseri,TR
@@ -80779,7 +80795,224 @@
 2862747,TA3AQZ,Utku,Bursa,Bursa,TR
 2862748,TA6ADI,Ahmet,Amasya,Amasya,TR
 2862749,TB3FEV,Fevzi,Manisa,Manisa,TR
-2862750,TA5AIZ,Bayram,yalınayak,Mersin,TR
+2862750,TA5AIZ,Bayram,yalinayak,Mersin,TR
+2862751,TB5CBX,Samet,Eregli,Konya,TR
+2862752,TA8SFK,Ferat,Gaziantep,Gaziantep,TR
+2862753,TA1AQW,Alper,Eyupsultan,Eyupsultan,TR
+2862754,TA1AVE,Edkin,Istanbul,Istanbul,TR
+2862755,TA3APT,Umut,Karsiyaka,Izmir,TR
+2862756,TA1AVS,Fatma,Turkiye,Istanbul,TR
+2862757,TB2FOS,Ozgur,Pamukova,Sakarva,TR
+2862758,TA3OZG,Ozgur,Karabaglar,Izmir,TR
+2862759,TA5AJS,Tufan,Turkey,Mersin,TR
+2862760,TA4LTO,Tolgahan,Nazilli,Aydin,TR
+2862761,TA1AYM,Hasan,Istanbul,Istanbul,TR
+2862762,TA4APS,Orhan,Kusadasi,Aydin,TR
+2862763,TA3ARQ,Cagdas,Bursa,Bursa,TR
+2862764,TB3ABR,Erdem,Buca,Izmir,TR
+2862765,TA4APA,Tarık,Denizli,Denzli,TR
+2862766,TB5TSA,Ibrahim,Konya,Konya,TR
+2862767,TB7HCA,Coskun,Akcaabat,Trabozon,TR
+2862768,TA2BKZ,Ahmet,Pendik,Istanbul,TR
+2862769,TA2BLF,Hali̇l,Turkiye,Istanbul,TR
+2862770,TA1AXY,Hikmet,Corlu,Tekirdad,TR
+2862771,TA5IGD,Gurbuz,Akdeniz,Mersin,TR
+2862772,TB1CPV,Emre,Rotterdam,Istanbul,TR
+2862773,TA4AIX,Ragip,Antalya,Antalya,TR
+2862774,TA2BJN,Onur,Istanbul,Istanbul,TR
+2862775,TB4CBM,Bektas,Aydin,Aydin,TR
+2862776,TB2HMS,Magruf,Kocaeli,Kocaeli,TR
+2862777,TB7GRY,Resul,Giresun,Ordu,TR
+2862778,TA2ASS,Sadik,Atasehir,Istanbul,TR
+2862779,TA2BGQ,Metin,Eskisehir,Eskisehir,TR
+2862780,TA2BGP,Mehmet,Eskisehir,Eskisehir,TR
+2862781,TA2BAU,Oguz,Karabuk,Karabuk,TR
+2862782,TB2ABJ,Mete,Karabuk,Karabuk,TR
+2862783,TB1TKN,Pehlul,Istanbul,Istanbul,TR
+2862784,TA1ITU,Ilayda,Suleymanpasa,Tekirdad,TR
+2862785,TA2OM,Mehmet,Dikimevi Ankara,Ankara,TR
+2862786,TA2BKF,Arman,Ankara,Ankara,TR
+2862787,TA3ARI,Emirhan,Bursa,Bursa,TR
+2862788,TB1ABV,Gencay,Kirklareli̇,Kirklareli̇,TR
+2862789,TA3NYB,Yagiz,Bandirma,Balikesir,TR
+2862790,TA5MCZ,Mehmet,Iskenderun,Hatay,TR
+2862791,TA3AUW,Osman,Menemen,Izmir,TR
+2862792,TA2BLX,Resat,Caycuma,Caycuma,TR
+2862793,TA2BCB,Serdar,Odunpazari,Eskisehir,TR
+2862794,TA2AVG,Bugra,Istanbul,Istanbul,TR
+2862795,TA4ALX,Ercan,Efeler,Aydin,TR
+2862796,TB1DEA,Efe,Kirklareli,Kirklareli,TR
+2862797,TA2KI,Riza,Eskisehir,Eskisehir,TR
+2862798,TA1KMA,Muhammed,Esenler Istanbul,Istanbul,TR
+2862799,TA1BAB,Murat,Istanbul,Istanbul,TR
+2862800,TA1BAA,Ali,Istanbul,Istanbul,TR
+2862801,TA2BMM,Abdullah,Adapazari,Sakarva,TR
+2862802,TB2TTZ,Nurhan,Umraniye,Istanbul,TR
+2862803,TB2BJH,Omer,Yalova,Yalova,TR
+2862804,TA1AXR,Cem,Istanbul,Istanbul,TR
+2862805,TA2BKU,Sami,Yenimahalle,Ankara,TR
+2862806,TA1BAV,Kaan,Istanbul,Istanbul,TR
+2862807,TA2MZB,Mehmet,Uskudar,Istanbul,TR
+2862808,TA5AIJ,Yigit,Konya,Konya,TR
+2862809,TA2BLH,Zuhtu,Istanbul,Istanbul,TR
+2862810,TA2NSD,Secaatti̇n,Bolu,Bolu,TR
+2862811,TA2BHT,Gokay,Sapanca,Sakarva,TR
+2862812,TB5CCH,Hilmi,Eregli,Konya,TR
+2862813,TA9TC,Melik,Erzurum,Erzurum,TR
+2862814,TB1GHM,Huseyin,Edirne,,TR
+2862815,TA3HH,Fi̇kri̇,IzmIr,Aydin,TR
+2862816,TA3ABQ,Hasan,Turkey,Bursa,TR
+2862817,TA3AHV,Baris,SalIhlI,Manisa,TR
+2862818,TA2BEA,Levent,Cekmekoy,Istanbul,TR
+2862819,TA2BLC,Hamdi,Yalova,,TR
+2862820,TB1GUO,Gurkan,Kirklareli Turkiye,Istanbul,TR
+2862821,TB2AEW,Umit,Izmit,Kocael,TR
+2862822,TB4BZJ,Ekrem,Afyonkarahi̇sar,Afyonkarahi̇sar,TR
+2862823,TA2BLA,Raif,Turkey,Istanbul,TR
+2862824,TA3AQU,Serhat,Karsiyaka,Izmir,TR
+2862825,TA2BMH,Tarik,Istanbul,Istanbul,TR
+2862826,TA2KEI,Ibrahim,Sincan,Ankara,TR
+2862827,TA1BAM,Ahmet,Istanbul,Istanbul,TR
+2862828,TA3AQO,Baris,Balikesir,Balikesir,TR
+2862829,TA3APP,Mehmet,Osmangazi,Bursa,TR
+2862830,TA1BBD,Erdem,Istanbul,Istanbul,TR
+2862831,TA7KY,Kadir,Sivas,Sivas,TR
+2862832,TA5ALY,Ozgun,Antakya,Hatay,TR
+2862833,TA1BAP,Harun,Istanbul,Istanbul,TR
+2862834,TA3AQJ,Volkan,Karsiyaka,Izmir,TR
+2862835,TA1BBC,Tuncay,Istanbul  Bakirkoy,Istanbul,TR
+2862836,YM5KNV,Trac,Nevsehir,Nevsehir,TR
+2862837,TA6ABH,Dogancan,Samsun,Samsun,TR
+2862838,TB2ABT,Ibrahim,Bolu,Bolu,TR
+2862839,TA7ALF,Salih,KayserI,Kayseri,TR
+2862840,TA2BLI,Emre,Gebze,Kocael,TR
+2862841,TB5PAO,Ayhan,Konya,Konya,TR
+2862842,TA6LM,Ercan,Samsun,Samsun,TR
+2862843,TA2BNF,Huseyin,Adapazari,Sakarva,TR
+2862844,TA1SYB,Yilmaz,Silivri Istanbul,Istanbul,TR
+2862845,TA5DW,Yakup,Konya,Konya,TR
+2862846,TA7MNK,Ahmet,Trabzon,Trabozon,TR
+2862847,TA2BOF,Ozgur,Ankara,Ankara,TR
+2862848,TB3CBH,Oguz,Turkiye,Izmir,TR
+2862849,TA5ARE,Recep,Karaman,Karaman,TR
+2862850,TA2BOW,Nezi̇h,Istanbul,Istanbul,TR
+2862851,TA3AJZ,Anil,Bursa,Bursa,TR
+2862852,TB1ABL,Cagri,Kirklareli,Kirklareli,TR
+2862853,TA4AQF,Ritvan,Manavgat,Antalya,TR
+2862854,TA5AMN,Emre,Selcuklu,Konya,TR
+2862855,TA2BMG,Coskun,,Istanbul,TR
+2862856,TB4ABU,Suleyman,Usak,Usak,TR
+2862857,TA2UXZ,Atilla,Ankara,Ankara,TR
+2862858,TA1BBG,Nedim,Fatih,Istanbul,TR
+2862859,TA2BNU,Samet,Maltepe,Istanbul,TR
+2862860,TB2JYE,Yunus,Istanbul,Istanbul,TR
+2862861,TA2USM,Selman,Ankara,Ankara,TR
+2862862,TA2NEV,Emre,Istanbul,Istanbul,TR
+2862863,TA2BKX,Senol,Maltepe,Istanbul,TR
+2862864,TA7ALN,Yusuf,KayserI,Kayseri,TR
+2862865,TB1ACA,Gurkan,Istanbul,Istanbul,TR
+2862866,TA3AWL,Yasar,IzmIr,Izmir,TR
+2862867,TB2AFL,serafetti̇n,Istanbul,Istanbul,TR
+2862868,TA2LVJ,Selcuk,Bolu,Bolu,TR
+2862869,TB1ACE,Nisan,Esenyurt,Istanbul,TR
+2862870,TA1BBH,Erman,Istanbul Bayrampasa,Istanbul,TR
+2862871,TA5ANG,Ejder,Turkey,Konya,TR
+2862872,TA2BJQ,Egemen,Cankaya,Ankara,TR
+2862873,TB2AEO,Ilteris,Kecioren,Ankara,TR
+2862874,TA2BCT,Ufuk,Bolu,,TR
+2862875,TB1ABI,Hakan,Gaziosmanpasa,Istanbul,TR
+2862876,TA2BCN,Yusuf,Bolu,Bolu,TR
+2862877,TA2EEF,Ergun,cayirova,Kocael,TR
+2862878,TA4LKS,Servet,Fethiye,Mugla,TR
+2862879,TA5AIX,Enes,Konya,Konya,TR
+2862880,TB7BQK,Hasan,Talas,Kayseri,TR
+2862881,TB1GGO,Gokhan,Kirklareli,Istanbul,TR
+2862882,TA2BNM,Ergin,Umraniye,Istanbul,TR
+2862883,TA4AJP,Kutay,Efeler,Aydin,TR
+2862884,TA2BDV,Hasan,Karabuk,Karabuk,TR
+2862885,TA4APT,Istemihan,Kusadasi,Aydin,TR
+2862886,TA7ALH,Furkan,Melikgazi,Kayseri,TR
+2862887,TA5AJQ,Eren,Selcuklu,Konya,TR
+2862888,TB4ABO,Ahmet,Aydin,Aydin,TR
+2862889,TA2UNG,Gokhan,Cankaya,Ankara,TR
+2862890,TA4AIZ,Tevfik,Antalya,Antalya,TR
+2862891,TA7KYD,Yakub,Kayseri,Kayseri,TR
+2862892,TA5ORC,Huseyin,Nigde,Nigde,TR
+2862893,TA2ZR,Tevfik,Ankara,Ankara,TR
+2862894,TA4AQN,Huseyin,Isparta,Isparta,TR
+2862895,TA2UOK,Oktay,Mamak,Ankara,TR
+2862896,TA2BAA,Erhan,Umraniye,Istanbul,TR
+2862897,TA2EBI,Bahri,Ankara,Ankara,TR
+2862898,TA1AXM,Omer,catalca,Istanbul,TR
+2862899,TB4ACA,Nurullah,isparta,isparta,TR
+2862900,TB3PBK,Burc,IzmIr,Izmir,TR
+2862901,TB3ACD,Yagiz,Izmir,Izmir,TR
+2862902,TA3AXH,Atakan,Turkiye,Turkiye,TR
+2862903,TA1BBA,Ramazan,Istanbul,Istanbul,TR
+2862904,TB3GYD,Yilmaz,Akhisar,Manisa,TR
+2862905,TB2CUT,Abdullah,Adapazari,Sakarva,TR
+2862906,TA2BOY,Adnan,Kartal,Istanbul,TR
+2862907,TA2BME,Ersen,Ankara,Ankara,TR
+2862908,TB8FSA,Selahattin,Merkez,Kahramanmaras,TR
+2862909,TB2AFQ,Erdinc,Darica,Kocael,TR
+2862910,TB3ABG,Furkan,Izmir,Izmir,TR
+2862911,TA6AHI,Hasan,Ilkadim,Samsun,TR
+2862912,TB2CTQ,Ali,Turkiye,Ankara,TR
+2862913,TA2BMR,Ahmet,Ankara,Ankara,TR
+2862914,TB2AED,Hayrettin,Darica,Kocael,TR
+2862915,TA5AJF,Mehmet,Turkiye,Adana,TR
+2862916,TB3CDC,Cihat,Manisa,Manisa,TR
+2862917,TA8EN,Irfan,Gaziantep,Gaziantep,TR
+2862918,TA1AWP,Serkan,Istanbul,Istanbul,TR
+2862919,TA2BOX,Mevlut,Turkiye,Istanbul,TR
+2862920,TB2ADR,Ikram,Karabuk,,TR
+2862921,TB3ABI,Cengiz,Osmangazi,Bursa,TR
+2862922,TA2NNN,Ugur,Turkiye,Ankara,TR
+2862923,TA1BCE,Emirhan,Istanbul,,TR
+2862924,TA4AQP,Harun,Turkey,Denzli,TR
+2862925,TA2BNO,Deni̇z,Turki̇ye,Ankara,TR
+2862926,TB1ACB,Mehmet,Istanbul,Istanbul,TR
+2862927,TA2BQV,Bekir,Pursaklar,Ankara,TR
+2862928,TB2CVO,Semih,Pendik,Istanbul,TR
+2862929,TA1AVV,Ugur,Istanbul,Istanbul,TR
+2862930,TA4AJA,Kemal,Aydin Efeler,Aydin,TR
+2862931,TB3CVH,Hayrettin,Yunusemre,Manisa,TR
+2862932,TA1BBE,Ilhan,Istanbul,Istanbul,TR
+2862933,YM5KMS,Trac,33410 Mezitli Mersin,Mersin,TR
+2862934,TB2CVB,Cengiz,Istanbul,Istanbul,TR
+2862935,TA1AZV,Erkan,Kirklareli,Kirklareli,TR
+2862936,TA2BRQ,Feridun,Kadikoy,Istanbul,TR
+2862937,TA2BRD,Umit,Istanbul,Istanbul,TR
+2862938,TA2BPC,Ufuk,Istanbul,Istanbul,TR
+2862939,TA3AJN,Fatih,Bursa,Bursa,TR
+2862940,TA1BCF,Ahmet,Tekirdag,Tekirdad,TR
+2862941,TA5ANX,Mehmet,Selcuklu,Konya,TR
+2862942,TA2ITN,Tuncer,Ankara,Ankara,TR
+2862943,TB1GIO,Mehmet,Bayrampasa,Istanbul,TR
+2862944,TA3AZL,Serdar,Nilufer Bursa,Bursa,TR
+2862945,TA2BRO,Cemal,KOrfez,Kocael,TR
+2862946,TA2BMW,Zafer,Pendik,Istanbul,TR
+2862947,TB5BND,Nezih,Meram,Konya,TR
+2862948,TB4ABV,Murat,Nazilli,Aydin,TR
+2862949,TA1LMD,Muhammed,Istanbul,Istanbul,TR
+2862950,TB3ABM,Volkan,Menemen,Izmir,TR
+2862951,TA4AQQ,Fatih,Mugla,Mugla,TR
+2862952,TB1DSA,Bunyamin,Kirklareli,Tekirdad,TR
+2862953,TA5ADY,Umit,Mersin,Mersin,TR
+2862954,TA5ALQ,Emre,Adana,Adana,TR
+2862955,TB1DTT,Tamer,Kirklareli,Kirklareli,TR
+2862956,TA4LBT,Bulent,Serik,Antalya,TR
+2862957,TA7MRL,Mehmet,Trabzon,Trabozon,TR
+2862958,TB6AAR,Hamza,Carsamba,Samsun,TR
+2862959,TB2AAO,Bunyamin,Karabuk,Ankara,TR
+2862960,TB3DOU,Onur,Izmir,Izmir,TR
+2862961,TA2BSF,Burak,Kartal,Istanbul,TR
+2862962,TB4ABW,Ibrahim,Aydin,Aydin,TR
+2862963,TA2ADE,Orkun,Zonguldak,Zonguldak,TR
+2862964,TA4APE,Cenk,AtCa,Aydin,TR
+2862965,TA5AMJ,Okan,Adana,Adana,TR
+2862966,TB2CGQ,Seyfi,Kocaeli,Kocael,TR
+2862967,TA2BQO,Fatma,Eskisehir,Eskisehir,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -99765,236 +99998,3 @@
 3114032,KI5BMS,Steve,Grove,OK,US
 3114033,KG5WNV,Wesley,Broken Arrow,OK,US
 3114034,KG5WNV,Wesley,Broken Arrow,OK,US
-3114035,KA9YGW,Scott,Lebanon,IN,US
-3114036,K0SAA,Scott,Champlin,MN,US
-3114037,KM6SRG,Casey,Hilmar,CA,US
-3114038,KM4YMI,Beau,Decatur,GA,US
-3114039,KG5SZE,James,Deer Park,TX,US
-3114040,KG5SZE,James,Deer Park,TX,US
-3114041,K0ART,Arthur,Tacoma,WA,US
-3114042,KE8JHK,Thomas,Marysville,OH,US
-3114043,KE8JHK,Thomas,Marysville,OH,US
-3114044,K8UW,Gary,Dayton,OH,US
-3114045,N6TLW,Dinnie,Winton,CA,US
-3114046,N7ZRZ,Darrell,Florence,OR,US
-3114047,N7ZRZ,Darrell,Florence,OR,US
-3114048,KF6ODE,Ryan,Fallbrook,CA,US
-3114049,W7LFX,Skeet,Bozeman,MT,US
-3114050,AB8UM,Mike,N. Olmsted,OH,US
-3114051,W5NNN,Brian,Albuquerque,NM,US
-3114052,KM6WCS,Morey,San Gabriel,CA,US
-3114053,KC1KHN,Matthew,N. Billerica,MA,US
-3114054,W4HZS,John,Columbia,SC,US
-3114055,KD0BBM,Joseph,Atchison,KS,US
-3114056,N5XQK,Johnny,Bartlesville,OK,US
-3114059,KJ4UBO,James,Apex,NC,US
-3114060,AA8WH,William,Dearborn Heights,MI,US
-3114061,W5RZM,James,Marmaduke,AR,US
-3114062,W4FBB,Bruce,Taylorsville,KY,US
-3114064,KD9JWV,Hunter,Frankfort,IL,US
-3114065,KI7MOB,Gabriel,Portland,OR,US
-3114066,KC9JAO,Eric,Davenport,IA,US
-3114067,W4FBB,Bruce,Taylorsville,KY,US
-3114068,W5JTX,Josh,Stephenville,TX,US
-3114069,KN4HAD,Stephen,Tampa,FL,US
-3114070,KI4LZI,Anthony,Pickens,SC,US
-3114071,KF6UQK,Kevin,Clovis,CA,US
-3114072,KF6UQK,Kevin,Clovis,CA,US
-3114073,AE0OM,Dale,Saint Charles,MO,US
-3114074,KE0NMS,Christina,Saint Charles,MO,US
-3114075,N7JAV,John,Albany,OR,US
-3114076,W5BIN,Korbin,Pampa,TX,US
-3114077,KC0FWB,Richard,Fort Collins,CO,US
-3114078,KE5UMX,Jeffrey,Durant,OK,US
-3114079,K8JFG,Jon,Howard,OH,US
-3114080,KK4ISC,Michael,Miami Beach,FL,US
-3114081,W5RZM,James,Marmaduke,AR,US
-3114083,KN4MSH,Viorel,Atlanta,GA,US
-3114084,KD4GBA,Avery,Leesville,LA,US
-3114085,KM4RYP,William,W. Palm Beach,FL,US
-3114086,N3PKQ,Keith,Salome,AZ,US
-3114087,AA0GB,Paul,Bourbon,MO,US
-3114088,W7JPK,James,Hamilton,TX,US
-3114090,K9DKR,David,Elk Grove Village,IL,US
-3114091,N5MRL,Peter,Norman,OK,US
-3114092,K9DKR,David,Elk Grove Village,IL,US
-3114093,KE5YPB,Scott,White Wright,TX,US
-3114094,KD9LNP,Oliver,De Pere,WI,US
-3114096,KN4NTF,Russell,Hawesville,KY,US
-3114097,KI5BDY,Myklayn,Guthrie,OK,US
-3114098,N9JIG,Richard,Buckeye,AZ,US
-3114099,KD2KKG,Robert,Cleveland,NY,US
-3114100,KD9HIH,Mark,Fairview Heights,IL,US
-3114101,KG4ABC,Charles,Louisville,KY,US
-3114102,KD7TXV,Rick,Las Vegas,NV,US
-3114104,W8JAM,Jon,Reno,NV,US
-3114105,KD7HXL,Brett,Tomball,TX,US
-3114106,N3KC,Jesse,Upper Marlboro,MD,US
-3114107,KC8ELQ,Paul,Bay City,MI,US
-3114108,K0UWC,Gary,Bloomington,MN,US
-3114109,KC9JAO,Eric,Davenport,IA,US
-3114110,AA4HV,Daniel,Cordova,TN,US
-3114111,KC5MWB,Paul,Houston,TX,US
-3114112,WS4AM,Samuel,Chiefland,FL,US
-3114113,KN4NXQ,Noel,Fort Myers,FL,US
-3114114,N0RMS,Jason,Colorado Springs,CO,US
-3114115,WB0VGD,Robert,Arvada,CO,US
-3114116,W0HGJ,Harvey,Edmond,OK,US
-3114117,KG6JBC,Justin,Los Angeles,CA,US
-3114118,AB8EI,Richard,Akron,OH,US
-3114119,KJ6BJL,Terry,Pioneer,CA,US
-3114120,KI7ZBQ,Anthony,Newberg,OR,US
-3114121,KI4VLZ,Angel,Groveland,FL,US
-3114122,KD0NN,Donald,Houston,TX,US
-3114123,KI4VLZ,Angel,Groveland,FL,US
-3114124,KB2NJC,William,Roanoke,VA,US
-3114125,KJ9Q,Gerald,Austin,IN,US
-3114126,K1BAD,Carmelo,Raynham,MA,US
-3114127,K3DEI,Jeff,Bella Vista,AR,US
-3114128,KG6LFJ,John,Peshastin,WA,US
-3114129,KC0DRP,David,Kansas City,KS,US
-3114130,KD4LYO,Stephen,Cookeville,TN,US
-3114131,W9EXZ,Jonathan,Stowe,VT,US
-3114132,N8HTV,John,Roseville,MI,US
-3114133,W8EMB,Eric,Batavia,OH,US
-3114134,WD6AJK,Larry,Stockton,CA,US
-3114135,WK1P,Richard,Marietta,GA,US
-3114136,KC4DD,Donald,Gastonia,NC,US
-3114137,KN4MDP,Anthony,Owens Cross Roads,AL,US
-3114138,KG5GK,Kathryn,Cedar Park,TX,US
-3114139,WB5GM,Gregory,Cedar Park,TX,US
-3114140,WB5GM,Gregory,Cedar Park,TX,US
-3114141,N3PKQ,Keith,Salome,AZ,US
-3114142,KC8UDZ,Sean,N. Bloomfield,OH,US
-3114143,KD9KLO,David,Chicago,IL,US
-3114144,WM5Q,Wayne,Whitehouse,TX,US
-3114145,KA1JBE,Joseph,Whitman,MA,US
-3114146,KC2VYU,John,Little Falls,NJ,US
-3114147,WB3EAF,Bob,New Freedom,PA,US
-3114148,KB2MAB,John,Hazlet,NJ,US
-3114149,WX4MEM,Nws,Memphis,TN,US
-3114150,AA3BK,Brian,Garnet Valley,PA,US
-3114151,K7CB,Stephen,Colorado Springs,CO,US
-3114152,N9DNR,Daniel,Pekin,IL,US
-3114153,W7RUG,Bliss,Idaho Falls,ID,US
-3114154,W7RUG,Bliss,Idaho Falls,ID,US
-3114155,KB1QU,Henry,Hilton Head Island,SC,US
-3114156,KD0ZEI,Nathan,Waverly,IA,US
-3114157,WV8DOF,Dale,Huntington,WV,US
-3114158,KE2CK,Jerry,Minotola,NJ,US
-3114159,KD4QFG,Don,Alma,GA,US
-3114161,KD7DVD,Christopher,Seattle,WA,US
-3114163,KH6TOB,Timothy,Volcano,HI,US
-3114164,KG4UZK,Jeannette,Knoxville,TN,US
-3114165,KD8PMJ,Ross,Dunmore,WV,US
-3114166,W5NNH,John,Ellenwood,GA,US
-3114167,WA6UVW,Donald,Yucaipa,CA,US
-3114169,WA1WES,James,Kenmore,WA,US
-3114170,KD6IYS,Estanislado,Pomona,CA,US
-3114171,KD0NN,Donald,Houston,TX,US
-3114172,K6BVZ,Christopher,Culver City,CA,US
-3114173,K0DKR,Vincent,Norman,OK,US
-3114174,N4VXX,Michael,Dade City,FL,US
-3114175,KI4MOE,Charles,Georgetown,KY,US
-3114176,AC1HH,Stephen,Hampden,ME,US
-3114177,KC3CJ,Robert,Longs,SC,US
-3114178,NZ1Y,Brad,Punta Gorda,FL,US
-3114179,WB3EAF,Bob,New Freedom,PA,US
-3114180,KC6YLT,Paul,W. Hills,CA,US
-3114181,KE8HSR,Carly,N. Canton,OH,US
-3114182,N2RDT,David,Los Gatos,CA,US
-3114183,KG6SQQ,Nicholas,San Jose,CA,US
-3114184,KI6MOX,Alexander,San Jose,CA,US
-3114185,KK6YGJ,Beeta,San Jose,CA,US
-3114186,KC9WMS,Barry,Indianapolis,IN,US
-3114187,W4NUX,David,Orlando,FL,US
-3114188,KD8RTP,John,Gahanna,OH,US
-3114189,K4TJA,Richard,Gloucester,VA,US
-3114192,W0LVN,Robert,Charlottesville,VA,US
-3114193,K8RVR,Michael,Scottsville,VA,US
-3114194,KF5RGL,Jonathan,Lufkin,TX,US
-3114195,KC1IFK,Stewart,Colchester,VT,US
-3114196,KC1IFK,Stewart,Colchester,VT,US
-3114198,W2DTI,Craig,Clayton,NY,US
-3114199,KL7AA,Anchorage,Anchorage,AK,US
-3114200,K6UVA,Gary,Lake Oswego,OR,US
-3114201,KM4KZC,Kenneth,Gloucester,VA,US
-3114202,KC1KCU,Cruz,Roxbury,MA,US
-3114203,KM4KZC,Kenneth,Gloucester,VA,US
-3114204,K4IT,Jerry,Tucker,GA,US
-3114205,KN4DRW,Carl,Moreland,GA,US
-3114206,KY0TES,Justin,Laguna Hills,CA,US
-3114207,KC8APZ,Thomas,Columbus,OH,US
-3114208,KB9PTP,Jamey,Indianapolis,IN,US
-3114209,W4KRL,Karl,Centreville,VA,US
-3114210,KC8APZ,Thomas,Columbus,OH,US
-3114211,KG5EUS,Steve,Hurst,TX,US
-3114212,N2NDU,Hipolito,Woodhaven,NY,US
-3114214,K7APX,Rich,Henderson,NV,US
-3114215,K7APX,Rich,Henderson,NV,US
-3114216,W6JMX,Carlos,San Bruno,CA,US
-3114217,W3MRW,Michael,Altoona,PA,US
-3114218,WB6JNN,James,San Jose,CA,US
-3114219,KF6OVX,Elias,Chula Vista,CA,US
-3114220,AI4I,Joel,Miami Beach,FL,US
-3114221,AG3Q,Jerry,Wilmington,DE,US
-3114222,N9RFS,David,Saint Robert,MO,US
-3114223,KI6RTV,Urbano,Baldwin Park,CA,US
-3114224,KB8TAB,Rudi,Lewisburg,TN,US
-3114226,N0QKM,Quentin,Prairie Village,KS,US
-3114227,KD8WVX,Andrew,Athens,OH,US
-3114228,W0QH,Emmett,Lake Saint Louis,MO,US
-3114229,KC3FJZ,John,Richland,PA,US
-3114230,KD7RMT,Phillip,Mesa,AZ,US
-3114231,KD7RMU,Gloria,Phoenix,AZ,US
-3114232,N3MFB,Charles,Beaver,PA,US
-3114233,KI7HDH,Keeton,Henderson,NV,US
-3114234,W7AI,Oro,Tucson,AZ,US
-3114235,NU3A,Kenneth,Newark,DE,US
-3114236,KD5HHH,Herbert,Marksville,LA,US
-3114237,AC6RB,George,Laguna Hills,CA,US
-3114238,KC9MWU,Thomas,Vevay,IN,US
-3114239,AG6AG,Stuart,Newbury Park,CA,US
-3114240,N0ZEL,Lauro,La Puente,CA,US
-3114241,WA4CLA,Steven,Florence,AL,US
-3114242,KF4EDS,Debra,Florence,AL,US
-3114243,W6IPA,Jean-Christophe,San Jose,CA,US
-3114244,KD9LEO,Bryan,Cicero,IL,US
-3114245,W7PMS,Patti,Prescott,AZ,US
-3114246,KK4MKF,Terry,Morning View,KY,US
-3114247,KM6MBL,William,Thornton,CO,US
-3114248,KC1HJW,Luis,Bridgeport,CT,US
-3114249,KC1HJY,Gloria,Bridgeport,CT,US
-3114250,KB2WON,Selvin,Brooklyn,NY,US
-3114251,W6JMX,Carlos,San Bruno,CA,US
-3114252,KE6KN,Francis,Daly City,CA,US
-3114253,KE0NLS,Matthew,Lakewood,CO,US
-3114254,KI5BDF,Aria,Saginaw,TX,US
-3114255,K4YLX,Ted,Orange Park,FL,US
-3114256,NY3R,Anthony,Lancaster,PA,US
-3114257,KG5UHY,Jason,Calhoun,LA,US
-3114258,N2NDU,Hipolito,Woodhaven,NY,US
-3114259,KA4TDW,Regina,Haines City,FL,US
-3114260,KB9OPV,Johnathon,Newburgh,IN,US
-3114261,N5UKZ,Michael,Baton Rouge,LA,US
-3114263,WD6CGF,Steven,Simi Valley,CA,US
-3114264,KG5IWX,Joshua,Heavener,OK,US
-3114265,KB2SAW,Manuel,Newark,NJ,US
-3114266,KC8FPT,Frank,Elmwood Pl,OH,US
-3114267,KE7DIN,Robert,Wauconda,WA,US
-3114268,KF6DL,David,Diamond Bar,CA,US
-3114269,KC3LSR,Nicholas,Furlong,PA,US
-3114270,AC9HM,Teodolfo,S. Bend,IN,US
-3114271,KA1SU,James,Bow,NH,US
-3114272,KN4GFG,Charles,Hinesville,GA,US
-3114273,KB1WRZ,David,Brownville,ME,US
-3114274,KI6UAV,Zsolt,Irvine,CA,US
-3114275,KD2MPY,Neil,Oceanside,NY,US
-3114276,AE6LX,Timothy,Monrovia,CA,US
-3114277,AC5DS,Olen,Smithville,AR,US
-3114278,AC5DR,Rodney,Smithville,AR,US
-3114279,KC5QQM,Christian,San Antonio,TX,US
-3114280,KB4KHQ,Lane,Duluth,GA,US
-3114281,N6CAZ,James,San Diego,CA,US
-3114282,KC3LSR,Nicholas,Furlong,PA,US
-3114283,W0MUD,Travis,Birkenfeld,OR,US
