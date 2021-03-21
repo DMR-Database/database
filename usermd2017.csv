@@ -10059,6 +10059,8 @@
 2020339,SV1EEX,Nikiforos,Kallipoli,Piraeus,GR
 2020340,SV9QCX,George,Irakleio Crete,Kriti,GR
 2020341,SV3ICL,Fotis,Egio,Peloponnisos,GR
+2020342,SV3APB,Panagiotis,Kalamata Messinia,Peloponnisos,GR
+2020343,SV3KEF,Michail,Pakia Lakonias,Peloponnisos,GR
 2021001,SV1BYK,Babis,Athens,Attica,GR
 2021002,SV1PDW,Ioannis,Athens,Attica,GR
 2021003,SV1IW,Manos,Athens,Attica,GR
@@ -14264,6 +14266,7 @@
 2060399,ON3NA,Alain,Puurs,ANT,BE
 2060400,ON4ANV,Roger,Saint-Hubert,WLX,BE
 2060401,ON3REC,Michel,Berchem Sainte Agathe,BRU,BE
+2060402,ON7HB,Henri,Morlanwelz,HAI,BE
 2061001,ON8SVH,Stijn,Oudenaarde,OVL,BE
 2061002,ON8SI,Simon,Oosterzele,OVL,BE
 2061003,ON5LUC,Luc,Gent,OVL,BE
@@ -16053,6 +16056,8 @@
 2080683,F4FDW,Laurent,Sarralbe,,FR
 2080684,F4ANJ,Jerome,Joncy,Aquitaine,FR
 2080685,F1FDB,Andre,Sarre Union,Alsace,FR
+2080686,F4IDS,Jean,Dammarie-les-Lys,IF,FR
+2080687,F5RIJ,Patrice,Velaux,Provence-Alpes-Cote dAzur,FR
 2081001,F1UOT,Olivier,Suresnes,IF,FR
 2081002,F4ACD,Romain,Poitiers,Vienne,FR
 2081003,F1TDI,Daniel,Suresnes,Paris,FR
@@ -20543,6 +20548,21 @@
 2142770,EA7KOE,Carlos,Huelva,Huelva,ES
 2142771,EA7HGA,Antonio,Balanegra,Andalucia,ES
 2142772,EA3GXC,Jordi,Unha,Lerida,ES
+2142773,EA6AMN,Javier,Formentera,Baleares,ES
+2142774,EA5AMU,Juan,Murcia,Murcia,ES
+2142775,EA7KOX,Miguel,El Puerto de Santa Maria,Andalucia,ES
+2142776,EA7PU,Antonio,Punta Umbria,Huelva,ES
+2142777,EA1HGC,Nicanor,Oviedo,Asturias,ES
+2142778,EA1FKT,Tomas,Vigo,Pontevedra,ES
+2142779,EA4EX,Samuel,Yuncler,Toledo,ES
+2142780,EA2EWH,Felipe,Murgia,Alava,ES
+2142781,EA5JEQ,Jose,Monforte Del Cid,Alicante,ES
+2142782,EB5IKC,Juan,Elche,Alicante,ES
+2142783,EA1FKS,Ruben,Haro,La Rioja,ES
+2142784,EA3FJC,Josep,Montoliu De Lleida,Lerida,ES
+2142785,EA1AUH,Fernando,Logrono,La Rioja,ES
+2142786,EA7WF,Francisco,Ecija,Sevilla,ES
+2142787,EC5ALJ,Manuel,Alicante,Valencia,ES
 2143001,EA3DKP,Ricardo,Roses,Girona,ES
 2143002,EA3DKP,Ricardo,Roses,Girona,ES
 2143003,EA3DKP,Ricardo,Roses,Girona,ES
@@ -67040,6 +67060,122 @@
 2622882,DO1NFL,Ferdinand,Schwabach,Bayern,DE
 2622883,DD6WG,Dennis,Am Mellensee,BB,DE
 2622884,DM7AP,Andreas,Ludwigshafen,RP,DE
+2622885,DL1ELZ,Joachim,Neuss,NW,DE
+2622886,DO5BI,Thomas,Spenge,NW,DE
+2622887,DL1FOX,Robert,Holledau,Bayern,DE
+2622888,DD5IH,Wolfgang,Barsinghausen,NI,DE
+2622889,DG4NEC,Helmut,Spardorf,Bayern,DE
+2622890,DL6AJ,Alexander,Cremlingen,NI,DE
+2622891,DL6HRB,Herbert,Muenchen,Bayern,DE
+2622892,DG1ECG,Frank,Duisburg,NW,DE
+2622893,DO1CSM,Sebastian-Alexander,Troisdorf,NW,DE
+2622894,DM8TB,Thomas,Wuppertal,NW,DE
+2622895,DG0JBA,Jan,Chemnitz,SN,DE
+2622896,DL3KG,Uwe,Kerpen,NW,DE
+2622897,DK1WE,Werner,Berlin,BE,DE
+2622898,DL1JEZ,Frank,Haertensdorf,SN,DE
+2622899,DL6RG,Wulf-Ruediger,Neukieritzsch-Deutzen,SN,DE
+2622900,DO1MLS,Magnus,Berlin,BE,DE
+2622901,DL1ACE,Axel,Germering,Bayern,DE
+2622902,DJ1JJ,Hubert,Baldham,Bayern,DE
+2622903,DH0FAK,Achim,Huenstetten,HE,DE
+2622904,DH1YAQ,Lutz,Gelsenkirchen,NW,DE
+2622905,DK9LO,Klaus-Wessel,Kiel,SH,DE
+2622906,DC4XK,Konrad,Bosau,SH,DE
+2622907,DK4DM,Raimund,Hemer,NW,DE
+2622908,DG1BT,Peter,Hamburg,HH,DE
+2622909,DG9KP,Patrick,Kerpen,NW,DE
+2622910,DL1AFH,Arno,Hoehr-Grenzhausen,RP,DE
+2622911,DF1BN,Paul-Eduard,Neuburg am Inn,Bayern,DE
+2622912,DB3JA,Juan,Neckarbischofsheim,BW,DE
+2622913,DG2EAH,Michael,Oberhausen,NW,DE
+2622914,DL8ES,Kai,Essen,NW,DE
+2622915,DL4FCT,Jens-Juergen,Rosbach,HE,DE
+2622916,DK1KAI,Kai,Bramsche,NI,DE
+2622917,DC6DB,Detlef,Dortmund,NW,DE
+2622918,DC6LB,Rainer,Herzogenaurach,Bayern,DE
+2622919,DF9JZ,Karl-Walter,Bad Nauheim,HE,DE
+2622920,DL6FK,Ralph,Stoeckey,TH,DE
+2622921,DG5BEK,Stefan,Lilienthal,NI,DE
+2622922,DL4MGD,Michael,Pfronten,Bayern,DE
+2622923,DM2BWO,Johannes,Bayerbach,Bayern,DE
+2622924,DL8WOL,Wolfgang,Geslau,Bayern,DE
+2622925,DB3IJ,Ulrich,Mannheim,BW,DE
+2622926,DO5MPS,Manfred,Duisburg,NW,DE
+2622927,DF1MP,Marcel,Reichelsheim,HE,DE
+2622928,DG9GK,Guido,Magstadt,BW,DE
+2622929,DL3YDN,Thomas,Lauben,NW,DE
+2622930,DL1BKX,Rainer,Kirchlinteln,NI,DE
+2622931,DO1FEH,Otto,Coswig,SN,DE
+2622932,DH2FAB,Holger,Weinheim,BW,DE
+2622933,DO1HSP,Sven,Uslar,NI,DE
+2622934,DL8ZAD,Juergen,Runkel,HE,DE
+2622935,DL3MDZ,Rudolf,Kempten,Bayern,DE
+2622936,DM2PC,Christian,Lauterbach,HE,DE
+2622937,DL5KIM,Michael,Dirmstein,RP,DE
+2622938,DO2BEN,Benjamin,Donaueschingen,BW,DE
+2622939,DO6WW,Wolfgang,Hopsten,NW,DE
+2622940,DD0ZM,Matthias,Wiesbaden,HE,DE
+2622941,DG1KDB,Dirk,Wipperfuerth,NW,DE
+2622942,DB3FC,Hans,Hoechst,HE,DE
+2622943,DL3KBL,Peter,Wesseling,NW,DE
+2622944,DB4OF,Gerhard,Nordstemmen,NI,DE
+2622945,DB7BN,Karl-Heinz,Neuendeich,SH,DE
+2622946,DL1MWZ,Martin,Zulpich,NW,DE
+2622947,DL6SWN,Stefan,Neuss,NW,DE
+2622948,DO2UL,Friderike,Kranzberg,Bayern,DE
+2622949,DF3UC,Alfons,Worms,RP,DE
+2622950,DO1AKB,Andreas,Niederbrechen,HE,DE
+2622951,DO8UWE,Uwe,Ostseebad Prerow,MV,DE
+2622952,DG8NFY,Roland,Marktschorgast,Bayern,DE
+2622953,DC3PH,Peter,Fuerstenfeldbruck,Bayern,DE
+2622954,DO2FK,Florian,Schuttorf,NI,DE
+2622955,DL6CHM,Thomas,Magdeburg,ST,DE
+2622956,DO3KKD,Klaus,Dresden,SN,DE
+2622957,DF7ET,Bernhard,Tegernheim,Bayern,DE
+2622958,DB1BHR,Hartwig,Wiefelstede,NI,DE
+2622959,DK1AJ,Michael-Alfred,Wietze,NI,DE
+2622960,DL6TP,Wolfgang,Weimar,TH,DE
+2622961,DO2GT,Thomas,St.Leon-Rot,BW,DE
+2622962,DK0MM,Volker,Ober-Ramstadt,HE,DE
+2622963,DK3QH,Ulrich,Karlshuld,Bayern,DE
+2622964,DG2GGP,Gerd,Villingen-Schwenningen,BW,DE
+2622965,DL1NGO,Ingo,Nuernberg,Bayern,DE
+2622966,DD5FC,Edward,Vlotho,NW,DE
+2622967,DG5FAX,Werner,Rotenburg,HE,DE
+2622968,DG1YFV,Horst-Dieter,Hamm,NW,DE
+2622969,DL7IO,Ibrahim,Berlin,BE,DE
+2622970,DL4AAZ,Wolf-Markus,Wawern,RP,DE
+2622971,DL1LEV,Martin,Leverkusen,NW,DE
+2622972,DH9NAD,Bernd,Hofheim,Bayern,DE
+2622973,DH2AP,Georg,Rinteln,NI,DE
+2622974,DO1FDK,Oliver,Cottbus,BB,DE
+2622975,DF8OA,Reemt,Hildesheim,NI,DE
+2622976,DO2RSJ,Rudolf,Warstein,NW,DE
+2622977,DO7UWE,Uwe,Berlin,BE,DE
+2622978,DL6CLO,Claudia,Weitnau,Bayern,DE
+2622979,DL6SPG,Ulrich,Weitnau,Bayern,DE
+2622980,DM8BJF,Bernd,Falkensee,BB,DE
+2622981,DD5MJ,Johannes,Gelnhausen,HE,DE
+2622982,DL9FBI,Frank,Neuss,NW,DE
+2622983,DB8MU,Martin,Riemerling,Bayern,DE
+2622984,DF1ZC,Jose,Kelsterbach,HE,DE
+2622985,DL1MTT,Michael,Turkenfeld,Bayern,DE
+2622986,DF1HK,Klaus,Hamburg,HH,DE
+2622987,DO2XL,Sebastian,Lautertal,HE,DE
+2622988,DD0OX,Christian,Hannover,NI,DE
+2622989,DO2OA,Oliver,Heidelberg,BW,DE
+2622990,DD4AD,Guenter,Wolfsburg,NI,DE
+2622991,DF1NPZ,Emmanouil,Duesseldorf,NW,DE
+2622992,DF8GG,Gerhard,Munich,Bayern,DE
+2622993,DL2KMA,Marc,91054 Erlangen,Bayern,DE
+2622994,DC1PW,Philipp,Karlsruhe,Bayern,DE
+2622995,DM5TE,Oliver,Braunschweig,NI,DE
+2622996,DB7KW,Kai,BW,BW,DE
+2622997,DO4HJ,Heinz-Juergen,Kerpen,NW,DE
+2622998,DF9TS,Gerd,Muenchen,Bayern,DE
+2622999,DO1PWN,Bastian,Bayern,Bayern,DE
+2623000,DD6WG,Dennis,Am Mellensee,BB,DE
 2623001,DL4BCG,Paul,Jever,NI,DE
 2623002,DG5AV,Gerd,Einbeck,NI,DE
 2623003,DL5HSN,Hendrik,Ihlow,NI,DE
@@ -67832,7 +67968,7 @@
 2623790,DK0ASB,Frank,Goettingen,NI,DE
 2623791,DO5BRA,Rudi,Oldenburg,NI,DE
 2623792,DJ6OI,Thomas,Uslar,NI,DE
-2623793,DJ1SB,Sebastian,Hamburg,NI,DE
+2623793,DJ1SB,Sebastian,Hamburg,HH,DE
 2623794,DJ1OR,Guenther,Nienburg,NI,DE
 2623795,DC9BG,Carsten,Melle,NI,DE
 2623796,DK7YGL,Michael,Hagermarsch,NI,DE
@@ -77626,6 +77762,40 @@
 2680134,CR7AXQ,Luis,Parede,Lisboa,PT
 2680135,CT7ARI,Rui,Fatima,Santarem,PT
 2680136,CT2INA,Jose,Pacos de Ferreira,Porto,PT
+2680137,CT1ENQ,Jose,Guimaraes,Braga,PT
+2680138,CT7AYK,Pedro,Faro,Faro,PT
+2680139,CT5KBL,Jose,Paiao-,Figueira Da Foz,PT
+2680140,CT1CHT,Luis,S. Joao Da Madeira,Aveiro,PT
+2680141,CT5JWE,Paulo,Agueda,Aveiro,PT
+2680142,CT1GDZ,Miguel,Caldas Das Taipas,Braga,PT
+2680143,CS7AQU,Jorge,Castelo Branco,Castelo Branco,PT
+2680144,CT5JTK,Luis,Gondomar,Porto,PT
+2680145,CT1BEG,Vitor,Arcozelo,Porto,PT
+2680146,CR8ACJ,Hugo,Vila Do Porto,Azores,PT
+2680147,CU3BJ,Joao,9700  416 Angra Do Heroismo,Azores,PT
+2680148,CT1KNL,Alberto,Figueira Da Foz,Coimbra,PT
+2680149,CT1HTH,Manuel,Estarreja,Aveiro,PT
+2680150,CR7AZX,Rui,Vila De Prado,Vila Verde,PT
+2680151,CT2DYF,Pedro,Lisboa,Lisboa,PT
+2680152,CT1FKP,Rui,Portimao,Algarve,PT
+2680153,CT1FDM,Vitor,Vila Nova De Gaia,Porto,PT
+2680154,CT1YGX,Maria,Arcozelo,Porto,PT
+2680155,CT1AHM,Mario,Coimbra,Coimbra,PT
+2680156,CT1COO,Eduardo,Povoa De Santa Iria,Lisboa,PT
+2680157,CT2HBR,Miguel,Lisboa,Regiao de Lisboa,PT
+2680158,CT5KFH,Querubim,Fafe,Fafe,PT
+2680159,CR7BAE,Ricardo,Lisboa,Regiao de Lisboa,PT
+2680160,CT2JIL,Julio,Fafe,,PT
+2680161,CR7BAD,Beatriz,Vila Nova De Famalicao,Braga,PT
+2680162,CR7BAG,Hugo,Lisboa,Lisboa,PT
+2680163,CT2JIM,Carlos,Aroes,Fafe,PT
+2680164,CR7BAF,Helder,Cortes Do Meio,Covilha,PT
+2680165,CT2KFU,Paulo,Tavira,Algarve,PT
+2680166,CT2IBC,Joao,Seixal,Lisboa,PT
+2680167,CT2IAL,Manuel,Almada,SetUbal,PT
+2680168,CT5JDJ,Arlindo,Portimao,Algarve,PT
+2680169,CT2GDL,Rodrigo,Santo Antonio Dos Cavaleiros,Lisboa,PT
+2680170,CS7AQO,Paulo,Mertola,Beja,PT
 2681001,CT2HMR,Manuel,Amarante,Porto,PT
 2681002,CT1DQV,Eduardo,Chaves,Vila Real,PT
 2681003,CT2GSW,Rui,Maia,Porto,PT
@@ -78589,6 +78759,8 @@
 2700018,LX6LS,Lucilius,Luxembourg,WLX,LU
 2700019,LX1DM,Marc,Belvaux,WLX,LU
 2700020,LX1LJ,Jean,Esch/alzette,WLX,LU
+2700021,LX1WP,Tom,Esch Sur Sure,WLX,LU
+2700022,LX4LWL,Laru,Luxembourg,WLX,LU
 2701001,LX1CK,Christian,Hautcharage,WLX,LU
 2701002,LX2KA,Arsene,Kayl,WLX,LU
 2701003,LX1SC,Claude,Oberkorn,WLX,LU
@@ -79020,6 +79192,20 @@
 2720259,EI8EU,John,Galway,County Galway,IE
 2720260,EI2PMD,Ger,Dublin,Leinster,IE
 2720261,EI6HVB,Przemyslaw,Dublin,Leinster,IE
+2720262,EI5IQB,Nikolaos,Dublin,Leinster,IE
+2720263,EI2KE,Patrick,Castlebar,Mayo,IE
+2720264,EI5IHB,Garrett,Bantry,Cork,IE
+2720265,EI3KD,Mark,Carrigaline,Munster,IE
+2720266,EI6GSB,Conor,Ardee,Leinster,IE
+2720267,EI8KE,Donald,Co Sligo,Connacht,IE
+2720268,EI4KH,Denis,Watergrasshill,Cork,IE
+2720269,EI5KY,David,Malahide,Fingal,IE
+2720270,EI3IDB,Jaroslaw,Dublin,Leinster,IE
+2720271,EI0CZ,Brendan,Limerick,Munster,IE
+2720272,EI9HJB,Danilo,Bray,Leinster,IE
+2720273,EI3GQB,Francis,Dublin,Leinster,IE
+2720274,EI5EM,Tony,Baile Atha Cliath,Leinster,IE
+2720275,EI2JF,Hurley,Dublin,Leinster,IE
 2740001,TF3PKN,Pier,Reykjavik,Reykjavik,Iceland
 2740002,TF8KP,Krzysztof,Keflavik,Reykjanes,Iceland
 2740003,TF8KP,Krzysztof,Keflavik,Reykjanes,Iceland
@@ -79158,6 +79344,7 @@
 2800077,5B4AOF,Valdas,Limassol,Baai van Akrotiri,CY
 2800078,5B4APJ,Marinos,Kornos,Kornos,CY
 2800079,5B4ANV,Raymund,Larnaca,Larnaca,CY
+2800080,5B4VX,Marios,Mesogi,Paphos District,CY
 2820001,4L2M,Mamuka,Tbilisi,Tbilisi,Georgia
 2820002,4L7KA,Givi,Telavi,GA,Georgia
 2820003,4L4GB,Givi,Telavi,Kacheti,Georgia
@@ -79612,6 +79799,11 @@
 2840441,LZ1VCD,Viktor,Sofia,Sofia,BG
 2840442,LZ2STA,Stanimir,Vraca,Vraca,BG
 2840443,LZ1SET,Evgeny,Sofia,Sofia,BG
+2840444,LZ1MEH,Momchil,Sofia,Sofia,BG
+2840445,LZ1MMH,Milen,Sofia,Sofia,BG
+2840446,LZ1MSE,Zlatislav,Sofia,Sofia,BG
+2840447,LZ1LXB,Bill,Yambol,Yambol,BG
+2840448,LZ1OLD,Ivo,Plovdiv,Plovidiv,BG
 2860001,TA6TC,Mirac,Istanbul,Marmara region,TR
 2860002,TA5ACC,Cihan,Adana,Adana,TR
 2860003,TA2UKC,Cem,Istanbul,Marmara region,TR
@@ -82583,6 +82775,8 @@
 2862969,TA5ASY,Sami,Izmir,Izmir,TR
 2862970,TA3BC,Kemal,Cigli,Izmir,TR
 2862971,TA7IAT,Atakan,Adana,Adana,TR
+2862972,TA2BCO,Talha,Bolu Merkez,Merkez,TR
+2862973,TA4AQI,Adil,Muratpasa,Antalya,TR
 2880001,OY8W,Steffen,Kollafjorour,Torshavnar,Faroe
 2880002,OY1DZ,Karstin,Hoyvik,Hoyvik,Faroe
 2880003,OY5X,Karstin,Hoyvik,Hoyvik,Faroe
@@ -83217,6 +83411,13 @@
 2930604,S52WG,Tomaz,Smartno Ob Paki,Savinja,SI
 2930605,S54TP,Tomaz,Benedikt,Podravska,SI
 2930606,S56BLT,Tomaz,Jesenice,Gorenjska,SI
+2930607,S57BTT,Joze,Radovljica,Gorenjska,SI
+2930608,S56LA,Andraz,Jesenice,Jesenice,SI
+2930609,S56LMW,Mitja,Zirovnica,Gorenjska,SI
+2930610,S56KBS,Bojan,Sentjur,Savinjska,SI
+2930611,S56LEC,Matej,Zirovnica,Gorenjska,SI
+2930612,S56IUM,Miha,Jesenice,Jesenice,SI
+2930613,S57MGM,Marko,Rakek,Notranjskokraska,SI
 2940001,Z36AEC,Herolind,Gostivar,Polog,MK
 2940002,Z32IT,Dragan,Skopje,Skopje RegionSkopje,MK
 2940003,Z32IT,Dragan,Skopje,Skopje,MK
@@ -83252,7 +83453,8 @@
 2940033,Z32KC,Kire,Skopje,Skopje,MK
 2940034,Z32EA,Dimitar,Skopje,Skopje,MK
 2940035,Z34GAL,Aleksandar,Ohrid,Ohrid,MK
-2940036,Z34CDF,Stole,34tem3675547099,mk,MK
+2940036,Z34CDF,Stojance,Skopje,Skopje,MK
+2940037,Z33MS,Mitko,Strumica,Southeastern,MK
 2958001,HB0SPH,Pius,Wallenstadt,Liechtenstein,LI
 2959001,HB0BP,Andreas,Triesen,Oberland,LI
 2959002,HB0PJ,Patrick,Vaduz,Vaduz,LI
@@ -99796,205 +99998,3 @@
 3112099,KI4GQO,Merritt,Miami,FL,US
 3112100,KC2RMZ,Brian,Lakeland,FL,US
 3112101,KC2RMZ,Brian,Lakeland,FL,US
-3112102,KG4OJJ,Jay,Americus,GA,US
-3112103,KI4MOX,Allen,Winter Haven,FL,US
-3112104,KK4MCT,Jose,Davie,FL,US
-3112105,KA4DMV,Daniel,Pembroke Pines,FL,US
-3112106,N4CYA,Jamie,Byron,GA,US
-3112107,VE2QL,William,Pompano Beach,FL,US
-3112108,VE2QL,William,Pompano Beach,FL,US
-3112109,KJ4TAK,Thomas,Port Saint Lucie,FL,US
-3112110,KJ4TAK,Thomas,Port Saint Lucie,FL,US
-3112111,KJ4SHL,Ryan,Tampa,FL,US
-3112112,W4TAS,Tony,Brandon,FL,US
-3112113,W4TAS,Tony,Brandon,FL,US
-3112114,KG4GOQ,Paul,Lake Worth,FL,US
-3112115,KI4PDX,Tim,Boynton Beach,FL,US
-3112116,KI4PDX,Tim,Boynton Beach,FL,US
-3112117,N4GVD,Bob,Fort Lauderdale,FL,US
-3112118,N0LO,Ralph,Pompano Beach,FL,US
-3112119,WC0V,Duane,Pembroke Pines,FL,US
-3112120,WC0V,Duane,Pembroke Pines,FL,US
-3112121,K4SM,Kurt,Fort Pierce,FL,US
-3112122,N4DES,Mark,Boca Raton,FL,US
-3112123,KD4NFS,Michael,N. Fort Meyers,FL,US
-3112124,KE4TIM,John,Cutler Bay,FL,US
-3112125,KB4MAG,Rick,Miami,FL,US
-3112126,K4PCS,Kevin,Miami,FL,US
-3112127,KK4HHH,Christopher,Hollywood,FL,US
-3112128,N2YAG,William,Fort Lauderdale,FL,US
-3112129,KJ4PIU,Cj,Ponce De Leon,FL,US
-3112130,N4ZUW,Joseph,Deerfield Beach,FL,US
-3112131,K4AUS,Jason,Orlando,FL,US
-3112132,KA4JAW,James,Lake Mary,FL,US
-3112133,AD4C,Hector,Lake Worth,FL,US
-3112134,N8CEK,Joe,Boca Raton,FL,US
-3112135,KK4SUW,Kristina,Doral,FL,US
-3112136,KK4SUU,Maria,Doral,FL,US
-3112137,KK4SAM,John,Doral,FL,US
-3112138,N4IRS,Steven,Palm City,FL,US
-3112139,KX4QV,Herb,Stuart,FL,US
-3112140,KG4YJI,Steve,Seffner,FL,US
-3112141,K4SRN,Kurt,Ft. Pierce,FL,US
-3112142,N2BM,Moni,Boca Raton,FL,US
-3112143,N4JFH,Jose,Homestead,FL,US
-3112144,KD4KNV,Albert,Pembroke Pines,FL,US
-3112145,KG4CYX,Tom,Miami,FL,US
-3112146,KC4RPP,Harry,Naples,FL,US
-3112147,KC4RPP,Harry,Naples,FL,US
-3112148,KI4NNU,Rob,Tavares,FL,US
-3112149,W4ALR,Al,Mount Dora,FL,US
-3112150,W4KDM,Richard,Port Orange,FL,US
-3112151,K4LAK,Lake,Tavares,FL,US
-3112152,K4LAK,Lake,Tavares,FL,US
-3112153,K4LAK,Lake,Tavares,FL,US
-3112154,K4LAK,Lake,Tavares,FL,US
-3112155,K4LAK,Lake,Tavares,FL,US
-3112156,K4LAK,Lake,Tavares,FL,US
-3112157,K4LAK,Lake,Tavares,FL,US
-3112158,K4LAK,Lake,Tavares,FL,US
-3112159,K4LAK,Lake,Tavares,FL,US
-3112160,K4LAK,Lake,Tavares,FL,US
-3112161,K4LAK,Lake,Tavares,FL,US
-3112162,K4LAK,Lake,Tavares,FL,US
-3112163,K4LAK,Lake,Tavares,FL,US
-3112164,K4LAK,Lake,Tavares,FL,US
-3112165,K4LAK,Lake,Tavares,FL,US
-3112166,K4LAK,Lake,Tavares,FL,US
-3112167,K4LAK,Lake,Tavares,FL,US
-3112168,K4LAK,Lake,Tavares,FL,US
-3112169,K4LAK,Lake,Tavares,FL,US
-3112170,K4LAK,Lake,Tavares,FL,US
-3112171,K4LAK,Lake,Tavares,FL,US
-3112172,K4LAK,Lake,Tavares,FL,US
-3112173,KC4DEA,Chris,Palm City,FL,US
-3112174,W2GGI,Robert,Delray Beach,FL,US
-3112175,W3KRC,Pete,Clearwater Beach,FL,US
-3112176,WB0BBC,Paul,Pembroke Pines,FL,US
-3112177,KK4PJA,Beth,Pembroke Pines,FL,US
-3112178,AI4BK,Martin,Kissimmee,FL,US
-3112179,KE4GLA,Rob,Longwood,FL,US
-3112180,WB4ULT,Rick,Casselberry,FL,US
-3112181,K1FGE,Fred,Boca Raton,FL,US
-3112182,KF4IXA,Eric,Naples,FL,US
-3112183,K3NON,Paul,Tavares,FL,US
-3112184,K4CBN,Gregory,Lakeland,FL,US
-3112185,KF4DLA,Tyron,Seffner,FL,US
-3112186,KE4MXW,Bret,Orlando,FL,US
-3112187,KE4IFO,Jerry,Leesburg,FL,US
-3112188,NC4A,Harry,Boynton Beach,FL,US
-3112189,KE4IFO,Jerry,Leesburg,FL,US
-3112190,KM4OP,Philip,Palm Bay,FL,US
-3112191,N4VBR,Timothy,Lakeland,FL,US
-3112192,KK4FNZ,Mark,Port Saint Lucie,FL,US
-3112193,KC4HAD,Chad,Tavares,FL,US
-3112194,NY4PD,Enrique,Palm Bay,FL,US
-3112195,W2CKS,Christian,Altamonte Springs,FL,US
-3112196,AI4WW,Dan,Coral Springs,FL,US
-3112197,WB400V,Robert,Winter Park,FL,US
-3112198,AA4TZ,Tom,Cocoa Beach,FL,US
-3112199,N8CLB,Ted,Boynton Beach,FL,US
-3112200,KC4SSD,Timothy,Naples,FL,US
-3112201,N4FIV,Gary,Alabaster,AL,US
-3112202,K4DPS,Douglas,Navarre,FL,US
-3112203,KI4AML,Fidel,Orlando,FL,US
-3112204,KK4EJH,Glen,Lake Helen,FL,US
-3112205,N2HUC,Phil,Port St. Lucie,FL,US
-3112206,W2CF,Miguel,Tallahassee,FL,US
-3112207,W2CF,Miguel,Tallahassee,FL,US
-3112208,KM4OP,Philip,Palm Bay,FL,US
-3112209,K4RUR,Lowry,Orlando,FL,US
-3112210,W4RUG,Robert,Winter Haven,FL,US
-3112211,K4UZM,David,Merritt Island,FL,US
-3112212,N4JMY,James,Winter Haven,FL,US
-3112213,KK4HBN,Dana,Orlando,FL,US
-3112214,KG4BCN,Michael,Tampa,FL,US
-3112215,KF4FNZ,Rick,Cocoa Beach,FL,US
-3112216,KF4FNZ,Rick,Cocoa Beach,FL,US
-3112217,KC4SHY,Richard,Fort Lauderdale,FL,US
-3112218,KB5VWW,Sherry,Pompano Beach,FL,US
-3112219,N4LJK,Lloyd,Miami,FL,US
-3112220,KF4IXA,Eric,Naples,FL,US
-3112221,N4BGW,Brandon,Coral Gables,FL,US
-3112222,W0UZJ,Kevin,Kissimmee,FL,US
-3112223,KK4NRK,Emmett,Palm Bay,FL,US
-3112224,WB4CHT,Mac,Fort Lauderdale,FL,US
-3112225,WA4LYW,Phil,Lake Worth,FL,US
-3112226,KF4IDG,Richard,Margate,FL,US
-3112227,KK4EWE,Brandon,Plantation,FL,US
-3112228,KK4EWF,Sonia,Plantation,FL,US
-3112229,W4KKW,Kevin,Fort Pierce,FL,US
-3112230,NQ6U,Edward,Fort Meyers,FL,US
-3112231,NQ6U,Edward,Fort Meyers,FL,US
-3112232,AA6ML,Mike,Palm Coast,FL,US
-3112233,AA6ML,Mike,Palm Coast,FL,US
-3112234,K4DDU,Andrew,Carlsbad,CA,US
-3112235,KF4SEK,Nick,Cocoa,FL,US
-3112236,N4JMY,James,Winter Haven,FL,US
-3112237,ILLEGAL,Pirate,Jacksonville,FL,US
-3112238,N4BAR,Ray,Titusville,FL,US
-3112239,NF2F,Frederick,Mt. Dora,FL,US
-3112240,W1MCG,Mark,Stuart,FL,US
-3112241,NO9S,Steve,Kissimmee,FL,US
-3112242,K4RBM,Ronald,Blairsville,GA,US
-3112243,N9NWS,Gene,Canton,GA,US
-3112244,N4KXO,Jay,Grand Island,FL,US
-3112245,KE4ZZO,Ed,Sunrise,FL,US
-3112246,KE4ZZO,Ed,Sunrise,FL,US
-3112247,KC1AR,Louis,Naples,FL,US
-3112248,KE4OSC,Kimon,Palm Harbor,FL,US
-3112249,KG4FUR,Gerald,Boca Raton,FL,US
-3112250,NP2MR,David,Grand Island,FL,US
-3112251,NX4Y,David,Land O Lakes,FL,US
-3112252,KE4SDC,Ronnie,Sanford,FL,US
-3112253,KK4SUZ,Jonathan,Palm Coast,FL,US
-3112254,K4DDU,Andrew,Carlsbad,CA,US
-3112255,WA6KDW,Ray,Valrico,FL,US
-3112256,KC4IEE,Robert,Brandon,FL,US
-3112257,W4RPD,Kenneth,Holly Hill,FL,US
-3112258,W4RPD,Kenneth,Holly Hill,FL,US
-3112259,K4AC,Doug,Mount Dora,FL,US
-3112260,NG4US,Arrl,Mount Dora,FL,US
-3112261,K4EIO,Linda,Kissimmee,FL,US
-3112262,KA4ZRN,Magaly,Hollywood,FL,US
-3112263,KI4CAT,Harold,Melbourne,FL,US
-3112264,KG1AES,Austin,Clearwater,FL,US
-3112265,W4VAR,Brian,Polk City,FL,US
-3112266,KK4WYI,Christopher,Winter Haven,FL,US
-3112267,W4VAR,Brian,Polk City,FL,US
-3112268,KC9QPO,Daniel,Apollo Beach,FL,US
-3112269,W4PJT,Paul,Tampa,FL,US
-3112270,KD4ACG,Jason,Hudson,FL,US
-3112271,WB4CZR,Stephen,Plantation,FL,US
-3112272,KA2AYR,Steven,Ormond Beach,FL,US
-3112273,KD0BHG,Steven,Ormond Beach,FL,US
-3112274,N4HYK,Dock,Saint Petersburg,FL,US
-3112275,K4LWC,Larry,Milton,FL,US
-3112276,AJ4EG,Wallace,Milton,FL,US
-3112277,N4RTS,Robert,Windermere,FL,US
-3112278,KA4HLO,Carl,Miami,FL,US
-3112279,W4BFL,Gennaro,Boca Raton,FL,US
-3112280,WA4KWK,John,Dunedin,FL,US
-3112281,KK4JHR,Dwayne,Port St. Lucie,FL,US
-3112282,N2PE,Robert,Coral Springs,FL,US
-3112283,KE4CRC,Randy,Lakeland,FL,US
-3112284,WM1J,Charles,Miami Lakes,FL,US
-3112285,WB4ICW,Roger,Eustis,FL,US
-3112286,W4NVU,Dade,Miami,FL,US
-3112287,W4NVU,Dade,Miami,FL,US
-3112288,W4NVU,Dade,Miami,FL,US
-3112289,W4NVU,Dade,Miami,FL,US
-3112290,W4NVU,Dade,Miami,FL,US
-3112291,W4NVU,Dade,Miami,FL,US
-3112292,N4SRB,Bill,Inverness,FL,US
-3112293,ILLEGAL,Pirate,Jacksonville,FL,US
-3112294,W1MCG,Mark,Stuart,FL,US
-3112295,KB1MPI,Ronald,Delray Beach,FL,US
-3112296,KD4NWL,John,Holiday,FL,US
-3112297,KC4YUA,Brett,Safety Harbor,FL,US
-3112298,KC4YUA,Brett,Safety Harbor,FL,US
-3112299,K2LSF,Scott,Jacksonville Beach,FL,US
-3112300,W4WCD,Walter,Boca Raton,FL,US
-3112301,N4AMC,Medardo,Lakeland,FL,US
-3112302,KJ4CX,Curtis,Jacksonville,FL,US
-3112303,N4AMC,Medardo,Lakeland,FL,US
