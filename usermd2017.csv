@@ -11602,6 +11602,13 @@
 2040282,PD3RP,Rob,Hellevoetsluis,ZH,NL
 2040283,PC7A,Simon,Kollum,FRL,NL
 2040284,PH9E,Erik,Groningen,GR,NL
+2040285,PD9JDR,John,Rotterdam,ZH,NL
+2040286,PD0SKB,Hille,GEHEIM?,FLD,NL
+2040287,PG8DA,Dirk,Katwijk,N-BR,NL
+2040288,PD5HI,Izaac,Rotterdam,ZH,NL
+2040289,PD2DNS,Dennis,Hoorn,N-H,NL
+2040290,PD1KB,Koos,Dordrecht,ZH,NL
+2040291,PE1RSY,Jac,Hoogland,UTR,NL
 2041001,PD2ML,Mark,Bussum,N-H,NL
 2041002,PD2ML,Mark,Bussum,N-H,NL
 2041003,PA2JM,Joop,Amsterdam,N-H,NL
@@ -41055,6 +41062,46 @@
 2340764,G4YGW,Frederick,Washington,England,UK
 2340765,MW7CMJ,Guy,Mountain Ash,Wales,UK
 2340766,GI4GCG,Colin,Bangor,Northern Ireland,UK
+2340767,GW0NIS,Adam,Llangollen,Wales,UK
+2340768,M7SWG,Daniel,Leicester,England,UK
+2340769,2E0GQN,David,Manchester,England,UK
+2340770,M3TMH,Greg,Bideford,England,UK
+2340771,G3ICN,Diego,London,England,UK
+2340772,M0JKS,Dave,Winster,England,UK
+2340773,G1JIG,Stuart,Luton,England,UK
+2340774,2E1JBC,John,Louth,England,UK
+2340775,M0XPO,Leandro,Radlett,England,UK
+2340776,G3SEM,Paul,Norwich,England,UK
+2340777,MW7PWH,Phillip,Conwy,Wales,UK
+2340778,M7GDB,Steven,London,England,UK
+2340779,G1CPP,Ian,Tamworth,England,UK
+2340780,2E0FEC,George,Wanborough,England,UK
+2340781,G8XXM,Chris,Milton Keynes,England,UK
+2340782,G8PZT,Paula,Kidderminster,England,UK
+2340783,M7TJW,Diane,Wigan,England,UK
+2340784,M7FLG,Felix,Guildford,England,UK
+2340785,M1DHJ,Ian,Hull,England,UK
+2340786,M7SHN,Shaun,Evesham,England,UK
+2340787,M3OFQ,Paul,Derby,England,UK
+2340788,M7BWB,David,Yarm,England,UK
+2340789,G0ETZ,Stephen,Exmouth,England,UK
+2340790,G7VZQ,Derek,Crawley,England,UK
+2340791,G1BWX,Philip,Hundon,England,UK
+2340792,M7BOU,John,Southampton,England,UK
+2340793,2E1PEW,Alan,Bovey Tracey,England,UK
+2340794,G4PMG,Martin,Wigginton,England,UK
+2340795,M7JBG,John,Evesham,England,UK
+2340796,G1WSA,Christopher,Ulceby,England,UK
+2340797,M0XEF,Christopher,Southampton,England,UK
+2340798,GW0PRM,Brian,Colwyn Bay,Wales,UK
+2340799,MM7XZT,Matthew,Galashiels,Schotland,UK
+2340800,MW7USK,Matthew,Usk,Wales,UK
+2340801,G8OCV,Christopher,Pulham Market,England,UK
+2340802,G7MKQ,Alan,Co Durham,England,UK
+2340803,M7SNA,Shane,Swindon,England,UK
+2340804,G7LWV,Christopher,Southampton,England,UK
+2340805,M7XOZ,Richard,Bradford,England,UK
+2340806,M3ZYL,Daniel,Leeds,England,UK
 2341000,G0RDI,Iain,Bourne,England,UK
 2341001,G0RDI,Iain,Bourne,England,UK
 2341002,G4NEY,Jonathan,Willingham Cambridge,England,UK
@@ -88751,6 +88798,26 @@
 3024400,VE2SQL,Philippe,Brossard,QC,CA
 3024401,VE2ACN,Stéphane,Pointe Aux Trembles,QC,CA
 3024402,VO1TAD,Tomas,St johns,NL,CA
+3024403,VE6JHC,Jeffrey,Edmonton,AB,CA
+3024404,VE2ZAZ,Bertrand,Gatineau,QC,CA
+3024405,VE3MHY,Richard,Oakville,ON,CA
+3024406,VA7XPZ,John,,BC,CA
+3024407,VE2BCM,Gerald,Candiac,QC,CA
+3024408,VE2BYB,Michel,Saint Basile Le Grand,QC,CA
+3024409,VE3XCB,William,Barrie,ON,CA
+3024410,VE4GTM,Garth,Manitoba,MB,CA
+3024411,VE7TMZ,Michal,British Columbia,BC,CA
+3024412,VA3KVG,Alex,Ontario,ON,CA
+3024413,VA2KRB,Kelly,Gatineau,QC,CA
+3024414,VE9GUS,Gus,Moncton,NB,CA
+3024415,VE2HAR,Yervant,Laval,QC,CA
+3024416,VE7DH,Reinhold,Vancouver,BC,CA
+3024417,VE4GHC,Gerard,Winnipeg,MB,CA
+3024418,VE2SRU,Christian,Quebec,QC,CA
+3024419,VA7GKT,Peter,Victoria,BC,CA
+3024420,VA3GYV,Yaroslav,Toronto,ON,CA
+3024421,VE3DIG,Cesare,Woodbridge,ON,CA
+3024422,VA3FCK,Brian,Caledon,ON,CA
 3025001,VE5RS,Ron,Saskatoon,SK,CA
 3025002,VE5DWR,Devon,Martensville,SK,CA
 3025003,VE5XEF,Bob,Saskatoon,SK,CA
@@ -99931,70 +99998,3 @@
 3111012,KC3GLC,Christopher,Washington,DC,US
 3111013,KC3EGG,Benjamin,Washington,DC,US
 3111014,KB3YVF,Matt,Washington,DC,US
-3111015,KI4RIX,Michael,Washington,DC,US
-3111016,WF3EMA,Fema,Washington,WA,US
-3111017,N8HM,Paul,Washington,DC,US
-3111018,WB2BBS,Dennis,Washington,DC,US
-3111019,WB2BBS,Dennis,Washington,DC,US
-3111020,KI4SIL,Nicholas,Washington,DC,US
-3111021,KC3JYU,John,Washington,DC,US
-3111022,KC3JYU,John,Washington,DC,US
-3111023,KB3VPZ,Andrew,Washington,DC,US
-3111024,KB3VPZ,Andrew,Washington,DC,US
-3111025,W8UIL,Kevin,Arab,AL,US
-3111026,KM4JGC,Dallas,Irmo,SC,US
-3111027,KD2QEM,Frederick,Hopatcong,NJ,US
-3111028,KI7FXK,Kevin,Las Vegas,NV,US
-3111029,KD0ZTC,Yazen,Columbia,MO,US
-3111030,K9ARV,Bass,Wesley Chapel,FL,US
-3111031,K9ARV,Anthony,Wesley Chapel,FL,US
-3111032,AC0G,Michael,Fulton,MO,US
-3111033,W3COB,Douglas,Lancaster,PA,US
-3111034,KD2OWB,William,Baldwinsville,NY,US
-3111035,K0SWT,Franklin,Waynesville,MO,US
-3111036,N0XA,Russ,Saint Peters,MO,US
-3111037,KB3CS,Chris,Frostburg,MD,US
-3111038,KE7EFB,James,Portland,OR,US
-3111039,W8FHF,George,Norwich,OH,US
-3111040,WW3JR,John,Huntington,PA,US
-3111041,K3SP,Jack,Freeland,MD,US
-3111042,W8KHU,Dan,Sparks,NV,US
-3111043,WD6BGN,Ralph,Clark,MO,US
-3111044,KE6EVJ,Kevin,Hollister,CA,US
-3111045,KC1HKC,David,Stoughton,MA,US
-3111047,KJ6PBK,David,San Jose,CA,US
-3111048,KG5QNE,Christopher,Waxahachie,TX,US
-3111049,W8FHF,George,Norwich,OH,US
-3111050,N8IMW,Linda,Norwich,OH,US
-3111051,N8JMK,Bruce,Cambridge,OH,US
-3111052,AA1PR,Mike,Ira,VT,US
-3111053,K6CEL,Bennett,Yuba City,CA,US
-3111054,W5IAK,Charles,Neches,TX,US
-3111055,KD5IZV,John,Palestine,TX,US
-3111056,N9ZXP,William,Delavan,WI,US
-3111057,KG8XB,James,Clarksburg,MD,US
-3111058,NE0A,Douglas,Kansas City,MO,US
-3111059,N2QXB,Paul,Toms River,NJ,US
-3111060,KD9LLO,Matt,Plainfield,IN,US
-3111061,KN4RAY,Ray,Meridianville,AL,US
-3111062,KB2SVQ,Nelson,Gouverneur,NY,US
-3111063,KH6YO,Claire,Honolulu,HI,US
-3111066,KB0NNV,Nathan,Columbia,MO,US
-3111067,KN4GXD,Trey,Ashburn,VA,US
-3111068,N0VEP,Michael,Blue Springs,MO,US
-3111069,KI7YEY,Cole,Tucson,AZ,US
-3111070,W6JPG,John,Ventura,CA,US
-3111071,N8JMK,Bruce,Cambridge,OH,US
-3111073,KG5ZPW,Korbin,Pampa,TX,US
-3111074,K2DYC,David,Zephyrhills,FL,US
-3111075,KB1HYV,Eric,Auburn,ME,US
-3111076,K5SKR,John,Richland Hills,TX,US
-3111082,K5EFS,Eric,Plano,TX,US
-3111083,KE8JGX,Dirk,Canton,OH,US
-3111084,W7JKV,Harry,Spring Creek,NV,US
-3111085,KJ4VTZ,Paul,Jacksboro,TN,US
-3111086,KC1RX,Donald,Oviedo,FL,US
-3111087,KN3A,Scott,Mount Joy,PA,US
-3111088,KD3NZI,Dennis,W. Jordan,UT,US
-3111089,KV1W,Ric,Wells,ME,US
-3111091,KE0LQH,Dan,Saint Paul,MN,US
