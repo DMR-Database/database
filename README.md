@@ -7,7 +7,7 @@
 <hr>
 <h2><b>Latest News: DMR user database BETA
 </b></h2>
-If you always need to be up to date, even if the display might not show all the information for the newest users, then  <a href="https://github.com/bm-database/database-beta">these</a> files are what you need. 
+This is database updated anymore please check the new one <a href="https://github.com/bm-database/database-beta">these</a>. 
 <br><br>
 <b>DMR user database  <a href="https://github.com/DMR-database/database-beta">BETA</a> for Ailunce, Anytone, Tytera and Pi-Star can be found <a href="https://github.com/bm-database/database-beta">here</a>.
 </b>
