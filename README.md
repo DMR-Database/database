@@ -7,9 +7,9 @@
 <hr>
 <h2><b>Latest News: DMR user database BETA
 </b></h2>
-The normal database is not updated anymore please check the new one (database-beta) <a href="https://github.com/bm-database/database-beta">here</a>. 
+The normal database is not updated anymore please check the new one (database-beta) <a href="https://github.com/dmr-database/database-beta">here</a>. 
 <br><br>
-<b>DMR user database  <a href="https://github.com/DMR-database/database-beta">BETA</a> for Ailunce, Anytone, Tytera and Pi-Star can be found <a href="https://github.com/bm-database/database-beta">here</a>.
+<b>DMR user database  <a href="https://github.com/dmr-database/database-beta">BETA</a> for Ailunce, Anytone, Tytera and Pi-Star can be found <a href="https://github.com/dmr-database/database-beta">here</a>.
 </b>
 <hr>
 <b>Download latetst DMR user database for Ailunce, Anytone and Tytera</b>
