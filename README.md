@@ -12,7 +12,7 @@ The normal database is <b>NOT</b> updated anymore please check the new one (data
 <b>DMR user database  <a href="https://github.com/dmr-database/database-beta">BETA</a> for Ailunce, Anytone, Tytera and Pi-Star can be found <a href="https://github.com/dmr-database/database-beta">here</a>.
 </b>
 <hr>
-<b>Download latetst DMR user database for Ailunce, Anytone and Tytera</b>
+<b>Download old DMR user database for Ailunce, Anytone and Tytera</b>
 <br><br>
 <ul>
 <li>
